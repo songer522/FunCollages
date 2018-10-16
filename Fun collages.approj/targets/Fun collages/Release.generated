@@ -1,0 +1,730 @@
+{
+    "assets": [
+        {
+            "asset": "Fun collages/Graphics/background1.JPG", 
+            "target": "background1.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background8.JPG", 
+            "target": "background8.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background12.JPG", 
+            "target": "background12.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background14.JPG", 
+            "target": "background14.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background13.JPG", 
+            "target": "background13.JPG"
+        }, 
+        {
+            "asset": "Fun collages/FCPreviewPicture_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/InfoPlist.strings", 
+            "target": "zh-Hans.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "Fun collages/FCCollageView_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/texture4.JPG", 
+            "target": "texture4.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background2.JPG", 
+            "target": "background2.JPG"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/Localizable.strings", 
+            "target": "en.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/Localizable.strings", 
+            "target": "zh-Hans.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background4.JPG", 
+            "target": "background4.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background16.JPG", 
+            "target": "background16.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/leaves.png", 
+            "target": "leaves.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/MainStoryboard_iPhone.storyboard", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/MainStoryboard_iPhone.storyboard", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/BackgroundPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/BackgroundPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background18.JPG", 
+            "target": "background18.JPG"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FCKeyboardAccessoryView.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FCKeyboardAccessoryView.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/MainStoryboard_iPad.storyboard", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/MainStoryboard_iPad.storyboard", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background5.JPG", 
+            "target": "background5.JPG"
+        }, 
+        {
+            "asset": "Fun collages/FCCollectionViewCell.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background17.JPG", 
+            "target": "background17.JPG"
+        }, 
+        {
+            "asset": "Fun collages/StripViewBlock_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "FCPictureRoll_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/BackgroundCollectionViewCell.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/YellowArrow.png", 
+            "target": "YellowArrow.png"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FontPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FontPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background15.JPG", 
+            "target": "background15.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon57.png", 
+            "target": "Icon57.png"
+        }, 
+        {
+            "asset": "Fun collages/StripView_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FCSideMenu_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FCSideMenu_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/FCCollageView_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/FCPreviewPicture_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/launch480.png", 
+            "target": "launch480.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background7.JPG", 
+            "target": "background7.JPG"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FCSideMenu_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FCSideMenu_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/ColorPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/ColorPicker_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/texture1.png", 
+            "target": "texture1.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/texture9.JPG", 
+            "target": "texture9.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background21.JPG", 
+            "target": "background21.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/scroll.jpg", 
+            "target": "scroll.jpg"
+        }, 
+        {
+            "asset": "Fun collages/StripView_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/StripViewBlock_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/MainMenu_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/MainMenu_iPad.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/YellowArrow@2x.png", 
+            "target": "YellowArrow@2x.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon114.png", 
+            "target": "Icon114.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon152.png", 
+            "target": "Icon152.png"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/ColorPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/ColorPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/launch1024.png", 
+            "target": "launch1024.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background10.JPG", 
+            "target": "background10.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/colorful.jpg", 
+            "target": "colorful.jpg"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Default~iphone.png", 
+            "target": "Default~iphone.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/billborad1.png", 
+            "target": "billborad1.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Default~ipad.png", 
+            "target": "Default~ipad.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background3.JPG", 
+            "target": "background3.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background11.JPG", 
+            "target": "background11.JPG"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FontPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FontPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon76.png", 
+            "target": "Icon76.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background6.JPG", 
+            "target": "background6.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Background23.png", 
+            "target": "Background23.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/beach2.png", 
+            "target": "beach2.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon144.png", 
+            "target": "Icon144.png"
+        }, 
+        {
+            "asset": "Fun collages/FCThumbPicture_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/FCPictureEditingVC_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/FCPictureEditingVC_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background22.JPG", 
+            "target": "background22.JPG"
+        }, 
+        {
+            "asset": "Fun collages/en.lproj/BackgroundPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/zh-Hans.lproj/BackgroundPicker_iPhone.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon72.png", 
+            "target": "Icon72.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background20.JPG", 
+            "target": "background20.JPG"
+        }, 
+        {
+            "asset": "Fun collages/FCCollageView_iPhone3.5.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "Fun collages/Graphics/Icon120.png", 
+            "target": "Icon120.png"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/texture8.JPG", 
+            "target": "texture8.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background9.JPG", 
+            "target": "background9.JPG"
+        }, 
+        {
+            "asset": "Fun collages/Graphics/background19.JPG", 
+            "target": "background19.JPG"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "Fun collages", 
+        "APPLICATION_IDENTIFIER": "com.songer.Fun_Collage", 
+        "APPLICATION_NAME": "Funcollages", 
+        "LONG_VERSION": "2.0.0", 
+        "SHORT_VERSION": "2.0.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "Fun collages", 
+            "PRODUCT_NAME": "Fun collages"
+        }
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 60000
+    }, 
+    "deps": [
+        "UIKit", 
+        "StoreKit", 
+        "SystemConfiguration", 
+        "CFNetwork", 
+        "AssetsLibrary", 
+        "QuartzCore", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics"
+    ], 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "Fun collages-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Fun collages-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Fun collages-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Fun collages-project-headers.hmap", 
+            "hmap": {
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "Appirater.h": {
+                    "key": "Appirater.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "Appirater.h"
+                }, 
+                "AppiraterDelegate.h": {
+                    "key": "AppiraterDelegate.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "AppiraterDelegate.h"
+                }, 
+                "CurledViewBase.h": {
+                    "key": "CurledViewBase.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "CurledViewBase.h"
+                }, 
+                "FCCollageView.h": {
+                    "key": "FCCollageView.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCCollageView.h"
+                }, 
+                "FCCollectionViewCell.h": {
+                    "key": "FCCollectionViewCell.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCCollectionViewCell.h"
+                }, 
+                "FCItemPicker.h": {
+                    "key": "FCItemPicker.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCItemPicker.h"
+                }, 
+                "FCPicture.h": {
+                    "key": "FCPicture.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCPicture.h"
+                }, 
+                "FCPictureEditingVC.h": {
+                    "key": "FCPictureEditingVC.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCPictureEditingVC.h"
+                }, 
+                "FCPictureRoll.h": {
+                    "key": "FCPictureRoll.h", 
+                    "prefix": "./", 
+                    "suffix": "FCPictureRoll.h"
+                }, 
+                "FCPreviewPicture.h": {
+                    "key": "FCPreviewPicture.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCPreviewPicture.h"
+                }, 
+                "FCSideMenu.h": {
+                    "key": "FCSideMenu.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCSideMenu.h"
+                }, 
+                "FCText.h": {
+                    "key": "FCText.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCText.h"
+                }, 
+                "FCTextEditor.h": {
+                    "key": "FCTextEditor.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCTextEditor.h"
+                }, 
+                "FCThumbPicture.h": {
+                    "key": "FCThumbPicture.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "FCThumbPicture.h"
+                }, 
+                "Fun collages-Prefix.pch": {
+                    "key": "Fun collages-Prefix.pch", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "Fun collages-Prefix.pch"
+                }, 
+                "ItemCollectionViewCell.h": {
+                    "key": "ItemCollectionViewCell.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "ItemCollectionViewCell.h"
+                }, 
+                "MainMenu.h": {
+                    "key": "MainMenu.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "MainMenu.h"
+                }, 
+                "StripView.h": {
+                    "key": "StripView.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "StripView.h"
+                }, 
+                "StripViewBlock.h": {
+                    "key": "StripViewBlock.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "StripViewBlock.h"
+                }, 
+                "TileScrollView.h": {
+                    "key": "TileScrollView.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "TileScrollView.h"
+                }, 
+                "UIImageView+Curled.h": {
+                    "key": "UIImageView+Curled.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "UIImageView+Curled.h"
+                }, 
+                "fishhook.h": {
+                    "key": "fishhook.h", 
+                    "prefix": "Fun collages/", 
+                    "suffix": "fishhook.h"
+                }
+            }, 
+            "type": "iquote"
+        }
+    ], 
+    "infoplists": [
+        "./Fun collages/Fun collages-Info.plist"
+    ], 
+    "libs": [], 
+    "modules": [], 
+    "pchs": [
+        "./Fun collages/Fun collages-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "FCPictureRoll.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/Appirater.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/CurledViewBase.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCCollageView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCItemPicker.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCPicture.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCPictureEditingVC.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCPreviewPicture.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCSideMenu.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCText.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCTextEditor.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/FCThumbPicture.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/ItemCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/MainMenu.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "Fun collages/QuietAssertMacros.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/StripView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/StripViewBlock.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/TileScrollView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/UIImageView+Curled.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "Fun collages/fishhook.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Fun collages/main.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "1", 
+    "xcode_project": "Fun collages.xcodeproj"
+}

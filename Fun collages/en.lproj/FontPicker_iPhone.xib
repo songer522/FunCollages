@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="nth-cB-lXi" customClass="FCItemPicker">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="220"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <collectionView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" minimumZoomScale="0.0" maximumZoomScale="0.0" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="vrP-JV-X9e">
+                    <rect key="frame" x="0.0" y="50" width="320" height="170"/>
+                    <color key="backgroundColor" red="0.11764705882352941" green="0.11764705882352941" blue="0.11764705882352941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="6" minimumInteritemSpacing="6" id="844-oC-Tx5">
+                        <size key="itemSize" width="147" height="40"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="10" minY="0.0" maxX="10" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <cells/>
+                    <connections>
+                        <outlet property="dataSource" destination="nth-cB-lXi" id="Q8b-zs-SrS"/>
+                        <outlet property="delegate" destination="nth-cB-lXi" id="zDp-k9-er0"/>
+                    </connections>
+                </collectionView>
+                <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8yY-PL-fia">
+                    <rect key="frame" x="0.0" y="0.0" width="80" height="50"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="80" id="hLU-1d-n2V"/>
+                        <constraint firstAttribute="height" constant="50" id="t4U-o6-vji"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="18"/>
+                    <state key="normal" title="Bold">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="Bold">
+                        <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="boldButtonPressed:" destination="nth-cB-lXi" eventType="touchUpInside" id="Nd5-xZ-AYx"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5K9-sd-3ss">
+                    <rect key="frame" x="80" y="0.0" width="80" height="50"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="FgK-Q5-cEo"/>
+                        <constraint firstAttribute="width" constant="80" id="HqB-pv-iHg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="18"/>
+                    <state key="normal" title="Italic">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected">
+                        <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="italicButtonPressed:" destination="nth-cB-lXi" eventType="touchUpInside" id="69w-Xf-kx5"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GaM-jc-bln">
+                    <rect key="frame" x="160" y="0.0" width="160" height="50"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="160" id="6Ra-pi-fQZ"/>
+                        <constraint firstAttribute="height" constant="50" id="GF6-K5-YSh"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="18"/>
+                    <state key="normal" title="Done">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="doneButtonPressed" destination="nth-cB-lXi" eventType="touchUpInside" id="BMB-Td-WyN"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="8yY-PL-fia" firstAttribute="top" secondItem="nth-cB-lXi" secondAttribute="top" id="FPk-Ou-6dz"/>
+                <constraint firstItem="8yY-PL-fia" firstAttribute="leading" secondItem="nth-cB-lXi" secondAttribute="leading" id="W4Q-Az-rqt"/>
+                <constraint firstItem="5K9-sd-3ss" firstAttribute="top" secondItem="nth-cB-lXi" secondAttribute="top" id="YFe-Gh-faU"/>
+                <constraint firstItem="vrP-JV-X9e" firstAttribute="top" secondItem="nth-cB-lXi" secondAttribute="top" constant="50" id="a9B-vb-SYY"/>
+                <constraint firstItem="GaM-jc-bln" firstAttribute="top" secondItem="nth-cB-lXi" secondAttribute="top" id="ai6-M9-ESh"/>
+                <constraint firstAttribute="trailing" secondItem="vrP-JV-X9e" secondAttribute="trailing" id="iCL-Ou-apF"/>
+                <constraint firstItem="5K9-sd-3ss" firstAttribute="leading" secondItem="8yY-PL-fia" secondAttribute="trailing" id="kK7-MR-95J"/>
+                <constraint firstAttribute="trailing" secondItem="GaM-jc-bln" secondAttribute="trailing" id="kMx-hf-KTB"/>
+                <constraint firstItem="vrP-JV-X9e" firstAttribute="leading" secondItem="nth-cB-lXi" secondAttribute="leading" id="lUn-AK-xfp"/>
+                <constraint firstAttribute="bottom" secondItem="vrP-JV-X9e" secondAttribute="bottom" id="yoM-k2-9XK"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="collectionView" destination="vrP-JV-X9e" id="oc1-f3-ZF5"/>
+            </connections>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

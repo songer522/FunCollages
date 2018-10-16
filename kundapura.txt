@@ -1,0 +1,4119 @@
+total 592
+drwx------@ 14 ysong0  KMART\Domain Users     476 Aug 25 15:06 .
+	com.apple.quarantine	    67 
+drwx------+ 30 ysong0  KMART\Domain Users    1020 Aug 25 14:47 ..
+-rw-r--r--@  1 ysong0  KMART\Domain Users    6148 Aug 25 15:01 .DS_Store
+	com.apple.FinderInfo	    32 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users     442 Aug 25 14:50 .git
+	com.apple.quarantine	    67 
+-rw-------@  1 ysong0  KMART\Domain Users  279144 Feb 19  2014 .sconsign.dblite
+	com.apple.quarantine	    67 
+-rw-------@  1 ysong0  KMART\Domain Users     915 Aug 25  2016 FCPictureRoll.h
+	com.apple.quarantine	    67 
+-rw-------@  1 ysong0  KMART\Domain Users    2606 Aug 26  2016 FCPictureRoll.m
+	com.apple.quarantine	    67 
+-rw-------@  1 ysong0  KMART\Domain Users    2484 Jun 20  2013 FCPictureRoll_iPhone.xib
+	com.apple.quarantine	    67 
+drwx------@ 64 ysong0  KMART\Domain Users    2176 Aug 25 14:58 Fun collages
+	com.apple.quarantine	    67 
+drwx------@  6 ysong0  KMART\Domain Users     204 Aug 25 14:47 Fun collages.approj
+	com.apple.quarantine	    67 
+drwx------@  5 ysong0  KMART\Domain Users     170 Aug 25 15:00 Fun collages.xcodeproj
+	LastUpgradeCheck	     4 
+drwx------@  2 ysong0  KMART\Domain Users      68 Feb 19  2014 build
+	com.apple.quarantine	    67 
+-rw-r--r--   1 ysong0  KMART\Domain Users       0 Aug 25 15:06 kundapura.txt
+drwx------@ 13 ysong0  KMART\Domain Users     442 Aug 25 14:47 素材
+	com.apple.quarantine	    67 
+
+./.git:
+total 72
+drwxr-xr-x@  13 ysong0  KMART\Domain Users    442 Aug 25 14:50 .
+	com.apple.quarantine	   67 
+drwx------@  14 ysong0  KMART\Domain Users    476 Aug 25 15:06 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users     67 Dec 26  2013 COMMIT_EDITMSG
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users     23 Jan 17  2013 HEAD
+	com.apple.quarantine	   67 
+drwx------@   2 ysong0  KMART\Domain Users     68 Jan 17  2013 branches
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    111 Jan 17  2013 config
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users     73 Jan 17  2013 description
+	com.apple.quarantine	   67 
+drwxr-xr-x@  10 ysong0  KMART\Domain Users    340 Aug 25 14:47 hooks
+	com.apple.quarantine	   67 
+-rw-r--r--    1 ysong0  KMART\Domain Users  18216 Aug 25 14:50 index
+drwxr-xr-x@   3 ysong0  KMART\Domain Users    102 Aug 25 14:47 info
+	com.apple.quarantine	   67 
+drwxr-xr-x@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 logs
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 objects
+	com.apple.quarantine	   67 
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 refs
+	com.apple.quarantine	   67 
+
+./.git/branches:
+total 0
+drwx------@  2 ysong0  KMART\Domain Users   68 Jan 17  2013 .
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users  442 Aug 25 14:50 ..
+	com.apple.quarantine	 67 
+
+./.git/hooks:
+total 72
+drwxr-xr-x@ 10 ysong0  KMART\Domain Users   340 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users   442 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users   452 Jan 17  2013 applypatch-msg.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users   896 Jan 17  2013 commit-msg.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users   189 Jan 17  2013 post-update.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users   398 Jan 17  2013 pre-applypatch.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users  1704 Jan 17  2013 pre-commit.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users  4951 Jan 17  2013 pre-rebase.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users  1239 Jan 17  2013 prepare-commit-msg.sample
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users  3611 Jan 17  2013 update.sample
+	com.apple.quarantine	  67 
+
+./.git/info:
+total 8
+drwxr-xr-x@  3 ysong0  KMART\Domain Users  102 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users  442 Aug 25 14:50 ..
+	com.apple.quarantine	 67 
+-rw-------@  1 ysong0  KMART\Domain Users   35 Jan 17  2013 exclude
+	com.apple.quarantine	 67 
+
+./.git/logs:
+total 8
+drwxr-xr-x@  4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users   442 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users  1642 Dec 26  2013 HEAD
+	com.apple.quarantine	  67 
+drwxr-xr-x@  3 ysong0  KMART\Domain Users   102 Aug 25 14:47 refs
+	com.apple.quarantine	  67 
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x@ 3 ysong0  KMART\Domain Users  102 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwx------@ 3 ysong0  KMART\Domain Users  102 Aug 25 14:47 heads
+	com.apple.quarantine	 67 
+
+./.git/logs/refs/heads:
+total 8
+drwx------@ 3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 3 ysong0  KMART\Domain Users   102 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  1642 Dec 26  2013 master
+	com.apple.quarantine	  67 
+
+./.git/objects:
+total 0
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@  13 ysong0  KMART\Domain Users   442 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+drwxr-xr-x@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 00
+	com.apple.quarantine	  67 
+drwxr-xr-x@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 01
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:50 02
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 03
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 04
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 05
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 06
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 07
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 08
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 09
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 0a
+	com.apple.quarantine	  67 
+drwxr-xr-x@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 0b
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 0c
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 0d
+	com.apple.quarantine	  67 
+drwxr-xr-x@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 0e
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 0f
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 10
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 12
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 13
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 15
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 16
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 17
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 18
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 19
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 1b
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 1c
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 1d
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 1e
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 1f
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 20
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 21
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 22
+	com.apple.quarantine	  67 
+drwx------@   9 ysong0  KMART\Domain Users   306 Aug 25 14:47 23
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 24
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 25
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 26
+	com.apple.quarantine	  67 
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 27
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 28
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 29
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 2a
+	com.apple.quarantine	  67 
+drwx------@   9 ysong0  KMART\Domain Users   306 Aug 25 14:47 2b
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 2d
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 2e
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 30
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 31
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 32
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 33
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 34
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 35
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 36
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 37
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 38
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 3a
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 3b
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 3c
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 3d
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 3e
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 3f
+	com.apple.quarantine	  67 
+drwx------@   9 ysong0  KMART\Domain Users   306 Aug 25 14:47 40
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 41
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 42
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 43
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 44
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 45
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 46
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 47
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:50 48
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 49
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 4a
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 4c
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 4d
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 4e
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 50
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 51
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 52
+	com.apple.quarantine	  67 
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 53
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 54
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 55
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 57
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 58
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 59
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:50 5a
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 5b
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 5c
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 5d
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 5e
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 5f
+	com.apple.quarantine	  67 
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 60
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 63
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 64
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 66
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 67
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 68
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 69
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 6a
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 6b
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 6c
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 6d
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 6e
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 6f
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 70
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 71
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 72
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 73
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 74
+	com.apple.quarantine	  67 
+drwx------@  11 ysong0  KMART\Domain Users   374 Aug 25 14:47 75
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 76
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 77
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 78
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 7b
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 7c
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 7d
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 7e
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 7f
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 81
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 82
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 83
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 84
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 85
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 86
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 87
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 88
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 89
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 8a
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 8b
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 8c
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 8d
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 8f
+	com.apple.quarantine	  67 
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 90
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 92
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 93
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 94
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 95
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 96
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 97
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 99
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 9a
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 9b
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 9c
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 9d
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 9e
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 9f
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 a0
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 a1
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 a2
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 a4
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 a5
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 a6
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 a7
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 a9
+	com.apple.quarantine	  67 
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 ac
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ad
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 b0
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 b1
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 b3
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 b4
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 b5
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 b6
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 b7
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 b8
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 b9
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 bb
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 bc
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 bd
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 be
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 bf
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 c0
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 c1
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 c2
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 c3
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 c4
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 c5
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 c6
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 c8
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 c9
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 ca
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 cc
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 cd
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 ce
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 cf
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 d0
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 d1
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 d2
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 d4
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 d5
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 d6
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 d7
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 d8
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 d9
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 da
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 db
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 dc
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 dd
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 de
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 e0
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 e1
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 e2
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 e3
+	com.apple.quarantine	  67 
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 e4
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 e5
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 e6
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 e7
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 e8
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 e9
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ea
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ec
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 ed
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ee
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ef
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 f0
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 f1
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 f2
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 f3
+	com.apple.quarantine	  67 
+drwx------@   9 ysong0  KMART\Domain Users   306 Aug 25 14:47 f4
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 f5
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 f6
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 f7
+	com.apple.quarantine	  67 
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:50 f8
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 f9
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 fa
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 fb
+	com.apple.quarantine	  67 
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 fd
+	com.apple.quarantine	  67 
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 fe
+	com.apple.quarantine	  67 
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 ff
+	com.apple.quarantine	  67 
+drwx------@   2 ysong0  KMART\Domain Users    68 Jan 17  2013 info
+	com.apple.quarantine	  67 
+drwx------@   2 ysong0  KMART\Domain Users    68 Jan 17  2013 pack
+	com.apple.quarantine	  67 
+
+./.git/objects/00:
+total 72
+drwxr-xr-x@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   2449 Aug 23  2013 54e6f91734d4171aa0d18aad60c393a27f7f02
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1118 Dec 18  2013 550503f3ab7b650cdc1938f09537f824a4c3d4
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  25345 Jan  6  2014 a17e7e21becde62d198da50406b3b45a6e7275
+	com.apple.quarantine	   67 
+
+./.git/objects/01:
+total 32
+drwxr-xr-x@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1417 Jun 27  2013 22161fa1754d3031fab4b3af2fec8edfeb5d59
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   360 Aug 26  2016 9065856547bcc31f641ecd23274e910ac8e0de
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   247 Dec 26  2013 cd33bb85ee6c17ec7fb799c422cb933d3a0145
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   358 Aug 26  2016 dc0a0e3d9f5a4ea7fff58d5bdf11b64f13959f
+	com.apple.quarantine	  67 
+
+./.git/objects/02:
+total 2536
+drwx------@   4 ysong0  KMART\Domain Users      136 Aug 25 14:50 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-r--r--r--    1 ysong0  KMART\Domain Users      392 Aug 25 14:50 15e253d505f52036037b2504562ddaa3064c65
+-rw-------@   1 ysong0  KMART\Domain Users  1290915 Jan  2  2014 bbd29196b4ba1422796d6e0ca75324998cf94e
+	com.apple.quarantine	     67 
+
+./.git/objects/03:
+total 1888
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  955144 Dec 26  2013 0db3fb6174a1b80118e13599d45553c0a97d80
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     433 Aug 23  2013 2634e958885a1bf16ab145644b6dbf6e2028dc
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1355 Aug 26  2013 4a8818d66ebf64680b69d9facf2468f2ab2af8
+	com.apple.quarantine	    67 
+
+./.git/objects/04:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   332 Jan  6  2014 15719939cbcb25736c5bbf6127d8fe5a674805
+	com.apple.quarantine	  67 
+
+./.git/objects/05:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   840 Dec 26  2013 0c7588abd593b2034fd62863ff0c02f77dda59
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1105 Dec 26  2013 6307ed6e2be6450c63a3ed045915834bd0df34
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   349 Aug 26  2013 a88e335246cf29119dff57d59c802dc4862785
+	com.apple.quarantine	  67 
+
+./.git/objects/06:
+total 64
+drwx------@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    230 Jan  2  2014 47f4800d5aea1b3a3544d7e9fcba5128b0eb44
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    938 Jun 25  2013 6dd77a3beb46e4b92de83f842ebc249de268dc
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    361 Aug 26  2016 8bc015922acf5025b142ae1dd6e321608a052c
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  14905 Jan 18  2013 971576e701f2adf5abb1a45801f8f1179bd402
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    233 Jan 17  2013 d8db78ff8a7846fbb182e75ac0b1448bdf8b2e
+	com.apple.quarantine	   67 
+
+./.git/objects/07:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   571 Dec 26  2013 03dc7918f975c18df3907264f113d812a10c40
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1390 Dec 18  2013 33774ab9b5d6b55b58b39e4f5698e4b5200878
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   327 Aug 26  2016 3da77149248e86d5913440670546e471207bcd
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   469 Jun 18  2013 977f1c2736226c85f9574d30f55f073cf80a3f
+	com.apple.quarantine	  67 
+
+./.git/objects/08:
+total 96
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   2344 Jan 17  2013 91b7aabfcf3422423b109c8beed2bab838c607
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  38896 Dec  9  2013 ce9e72de93a57dbfcf37708cda5a7e1e25ec16
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1096 Aug 23  2013 d525b117fdb23f21d1fdbb52f5562d96cd3365
+	com.apple.quarantine	   67 
+
+./.git/objects/09:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1492 Jan  7  2014 5e47ada11b252688528d07fba53729c9ddfda5
+	com.apple.quarantine	  67 
+
+./.git/objects/0a:
+total 1168
+drwx------@   6 ysong0  KMART\Domain Users     204 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  585373 Jan  6  2014 446ece312509db67ac1badb5d96d753f4f4324
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users      57 Dec 26  2013 44fe5869d303f36c724de6901eadfd9b385f6e
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1704 Dec 17  2013 60847cc80e97fb8128703ad405288b12eaecca
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2164 Jun 19  2013 a4af5c1acb4b392b5194b13577cb345a9ebc21
+	com.apple.quarantine	    67 
+
+./.git/objects/0b:
+total 8
+drwxr-xr-x@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Aug 26  2016 2ff8910d05ee8e32e58940c02ef08b83c1d4f7
+	com.apple.quarantine	  67 
+
+./.git/objects/0c:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1139 Jun 25  2013 7485a94b256b683adc0b445d13bcf68a3dce22
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   231 Jun 27  2013 a93ec78d549b1013430cd79761d7e62eaafa63
+	com.apple.quarantine	  67 
+
+./.git/objects/0d:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   928 Dec 17  2013 cb4a0c34bc328330034053687fbd3bfb4b9e42
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   345 Jan 27  2013 f780942b9be9f1494d69dcf6a2703dc485838f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1068 Jun 27  2013 fcbbf766270541008087db01f5dba3a36d144b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   253 Aug 26  2016 ff1faa0f5057bf1c9d78f3f8a1bc9996a86086
+	com.apple.quarantine	  67 
+
+./.git/objects/0e:
+total 112
+drwxr-xr-x@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  38644 Jan  6  2014 43c581c94df805991780b06b030338c3cc27fa
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    170 Jan 27  2013 77f70ffc9a92b5af1b230db4fe3d2d02fe4c66
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1805 Jun 27  2013 9e8535422ad481041dfc42ac89e43bfc53e2f0
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    152 Jun 17  2013 b27a586528e538c8786bdf6358562ec3cd3a12
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1297 Dec 19  2013 f48091b8b9af79c04b01a247f4c531bffb2016
+	com.apple.quarantine	   67 
+
+./.git/objects/0f:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   168 Dec 23  2013 5e8ee4bf6973d17637e0838705a0153b5f936b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   164 Jan 17  2013 96c060cd0b762d06c128e35f1d516fb09b0761
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1272 Dec 17  2013 9beb7b9e9fb0c7b12fde179e8de21d4cca7c65
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   386 Aug 23  2013 e6e08860e0e4a646b3de3db199a16506cae735
+	com.apple.quarantine	  67 
+
+./.git/objects/10:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3012 Jun 24  2013 3fcd03b934b8b063f6a1d196e5789b13c74ee3
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   381 Jun 17  2013 546e910116b68658ee65fb437dc7adbc42cb81
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2323 Dec 18  2013 5c95f543ed648d88a88c7332f6471c9b811cff
+	com.apple.quarantine	  67 
+
+./.git/objects/12:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   754 Jul  5  2013 d4b42b6468172b23f8dbb2b1472c981f24da8c
+	com.apple.quarantine	  67 
+
+./.git/objects/13:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   303 Dec 17  2013 1d9d380308e704113d0ea3cd43e802634cb153
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   971 Jun 17  2013 34599667709081fc6b9e4e3187cfa7a2d51d9a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   352 Aug 26  2016 c62cd34e45eb54887bdb7f3e35653400668d3f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1079 Dec 18  2013 f1fae0c01b49d7c0b2eb9ddddec271fa43c98a
+	com.apple.quarantine	  67 
+
+./.git/objects/15:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   794 Dec 17  2013 09c36eafdf4350eb9e899acc1b9da52e5af54a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   339 Aug 26  2016 93f7f2c2df717b862724ca92fdea421b79cbc5
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1559 Jun 17  2013 943edadb0762e938705088e48989ba8839ec12
+	com.apple.quarantine	  67 
+
+./.git/objects/16:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1440 Dec 26  2013 1f11e69a8672868fb292a363144264d9e4448b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   248 Dec 26  2013 8f926d5c0a578bfb823b5c0c2565eb098b618c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1422 Jun 18  2013 913b19da8423c5e3d15c2e8bd22fa32d9a33fc
+	com.apple.quarantine	  67 
+
+./.git/objects/17:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   194 Oct 16  2013 d6b04af2aca1c2ecb747b6673c501babf179f9
+	com.apple.quarantine	  67 
+
+./.git/objects/18:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   262 Aug 26  2016 3f663f5643d04cb3f8bb5a2b9c546b94025c3b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1768 Dec 18  2013 b752afdc1b868598a33988b98beaf9fa066757
+	com.apple.quarantine	  67 
+
+./.git/objects/19:
+total 40
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   355 Aug 26  2016 40377f2b57bfba7d08a289426e6fa78c0dfa58
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2029 Jun 17  2013 bef7aa17bb7e23472a4ec74f29dc41ed60739f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  6200 Jan  2  2014 ca8156d5a65c2571882456a11fcc1d6b86e5a7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3657 Dec 26  2013 d628fabbd9cc75912cce0a037a712418d96b27
+	com.apple.quarantine	  67 
+
+./.git/objects/1b:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   390 Aug 26  2013 8afacaced75cb49d639fe165983d33a8ffeaec
+	com.apple.quarantine	  67 
+
+./.git/objects/1c:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   164 Dec 16  2013 ff6030224b2ff88cfed141d658e086d3f68e63
+	com.apple.quarantine	  67 
+
+./.git/objects/1d:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   352 Aug 26  2016 18cc820e00144599083cbecc6d02c9f4c650c8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   139 Jan 17  2013 4fe4f64d395c0a1634e414dc2b766756af1db3
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    58 Jun 25  2013 74fc6904fe2cad423e5450b8b1f7b28ff1706d
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2622 Dec 18  2013 7882f7cc347134cf71f1cf74768bd0c053a805
+	com.apple.quarantine	  67 
+
+./.git/objects/1e:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5301 Oct 16  2013 1cacb4c6bd6e9c35c2132b6fe72332d34676da
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   343 Jun 27  2013 a24e69c1f05241be3f6035ddb1d7af414cd666
+	com.apple.quarantine	  67 
+
+./.git/objects/1f:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1796 Jan  7  2014 d1511b9b67b4a50085e1223c33238ec2bc5e13
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   400 Dec 17  2013 f2cb14d8a06d0c450a5ccdb906e5a3e767b5e2
+	com.apple.quarantine	  67 
+
+./.git/objects/20:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   172 Jun 27  2013 495f83a9853a4cd9f782d8540a507576a66977
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1602 Jan 19  2013 9c5e7fac96f4f791608de5cfc93f79b673929f
+	com.apple.quarantine	  67 
+
+./.git/objects/21:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   412 Nov 12  2013 2b00f1beb15b3fefb8f9c064131a27f9bf47b5
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   706 Jun 27  2013 96c68863558e63df2a52974ef817b752db3ef6
+	com.apple.quarantine	  67 
+
+./.git/objects/22:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   340 Aug 26  2016 9d652b45a423e8c499ef934ffb0b513a1aa2af
+	com.apple.quarantine	  67 
+
+./.git/objects/23:
+total 4976
+drwx------@   9 ysong0  KMART\Domain Users      306 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     2736 Jul  5  2013 1188d9174c16000ad48167f11a637af51c977d
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     1194 Aug 26  2013 2f481da65758ae91b6d6a5916399cad7702022
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     3970 Jun 25  2013 602112a07f49308ae031dbf4b645c7533df91c
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      343 Dec 26  2013 60c6094f6f6743309031c252ee52725d31ab17
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     1499 Dec  9  2013 a548ee774d5bf95a213fa20e8bafa3437ad624
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  2522029 Jun 19  2013 afb8f03fd394cff59da87ff0274fc7bf2a849d
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      444 Dec 17  2013 f3b27503e7e6edf62c5ff749a942ed0dae955f
+	com.apple.quarantine	     67 
+
+./.git/objects/24:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2257 Jun 24  2013 723443b5407fd56ce0c5453e730101865d784a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    89 Jan 17  2013 be97b7311b0dda96f2e39462f4b9590403d50d
+	com.apple.quarantine	  67 
+
+./.git/objects/25:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   237 Apr 25  2013 75c8f4651500adb7b30d12f7fd59eb1c04aafe
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   243 Aug 26  2016 fa980c37802799e4e45613a8c8966d1df7448d
+	com.apple.quarantine	  67 
+
+./.git/objects/26:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   779 Aug 26  2013 e5099a6355cb4a4263692f0c72f5e1d67799d1
+	com.apple.quarantine	  67 
+
+./.git/objects/27:
+total 56
+drwx------@   8 ysong0  KMART\Domain Users   272 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1486 Jun 17  2013 1b3098c081b2f6b185c5887a7ef9a9fcbf935d
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1066 Aug 26  2013 a000151688e54a834ecc347d5d2c29e2a216bb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2787 Jun 18  2013 a25e8490e68a274156f8fde330f99c5ea7c9a3
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2823 Dec 26  2013 cda2875c52009e33a9858efdcad3f37ca4d8fe
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   344 Nov 20  2013 d48fc4c35b8564ad25f6cbabdc253f7d9f50e9
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5765 Jan  3  2014 e54d301b070693f3e714b954db0bf04f9faf0a
+	com.apple.quarantine	  67 
+
+./.git/objects/28:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   756 Jun 27  2013 747c8d310e509e3e21f39b83e47096139fe00d
+	com.apple.quarantine	  67 
+
+./.git/objects/29:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   345 Jun 17  2013 7709ee8f409be5b3ef2c2d4a778f4185441269
+	com.apple.quarantine	  67 
+
+./.git/objects/2a:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    58 Aug 23  2013 4160bb27753244ba0b9a4e4c0658fdb03c0ca8
+	com.apple.quarantine	  67 
+
+./.git/objects/2b:
+total 72
+drwx------@   9 ysong0  KMART\Domain Users   306 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   256 Jun 24  2013 2b9b249550bdd59cbadf25250b9c0c01368085
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  9196 Aug 26  2016 91ef3db8fb1d4636c4818b998bdeaf6c822016
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1604 Dec  9  2013 95864a128ad376bd68911691708d20fa37503b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   336 Jan  6  2014 9733c7181b994b265f55b9c71f9ea7ab74d105
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   771 Oct 11  2013 e1859aaf5a520f8ae0d0946bfd26303dd15479
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   541 Jun 19  2013 e56f2edfa511febeb9025ac8812a45b1944710
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   872 Apr 25  2013 fa9c737b4ee32fc9c25015c085c54588cac133
+	com.apple.quarantine	  67 
+
+./.git/objects/2d:
+total 24
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  9116 Jun 18  2013 ae66d5bafcf7708b3960f53d9b5ab9a5e9dedf
+	com.apple.quarantine	  67 
+
+./.git/objects/2e:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   685 Jun 17  2013 026cd93e132dfde2fe1e7ed5b319e99485dad5
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1470 Jun 17  2013 031862c4170049c98e1584ba0561569191fb2e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   357 Aug 26  2016 4332c9bb62ed6d4458a391e2ea75798c87fb2a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   343 Aug 26  2016 651a79102e90290b5ab9a4898c3d814a362eea
+	com.apple.quarantine	  67 
+
+./.git/objects/30:
+total 64
+drwx------@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    310 Dec 17  2013 5b25268a68c58474ad399de24ad0e812be591b
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   2970 Jun 24  2013 ab61b8b7db8cac0bcf441bd22dba9ee5854abe
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  13129 Aug 26  2016 c1c1b29742c86a38266f18f18b5a0f785e5efa
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    169 Nov 20  2013 c3efa97e058eaa3e194856598838c1940c2ade
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    267 Oct  6  2014 d9dbdbd0d307dbfd22638e922268bbf95c5c71
+	com.apple.quarantine	   67 
+
+./.git/objects/31:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   387 Jun 18  2013 08167ff36e812951ff7b39eeb0abf8d1897b1e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   621 Dec 26  2013 2865900cd94ca92369045cbb1274a4857885ba
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   221 Dec 17  2013 81ebea2e58a3c482023738e148654b7a178d62
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   260 Aug 26  2016 824c66364abacb06afa622667f3c1c31e7bb6c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1233 Dec 10  2013 aca2d71655c0d6f6b6ff8bdd8214eb51334777
+	com.apple.quarantine	  67 
+
+./.git/objects/32:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1430 Jun 19  2013 0eb63aa77f0f42a9734840b6ae10467202bfb9
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   259 Jan  2  2014 58ad0f0185eeb31cc92508718e50dfe44f6d30
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   344 Jun 17  2013 8b94ac69f9fdb466282b3028a435a0ddd9ba87
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   590 Oct 24  2013 f390e17854cf444aa35f1aebb74373a46f2795
+	com.apple.quarantine	  67 
+
+./.git/objects/33:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1884 Jun 19  2013 b70c0045b8878923d7e02cc046785a664c9cb3
+	com.apple.quarantine	  67 
+
+./.git/objects/34:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   341 Jan 17  2013 6f9310f3069e9d71d35ec8dddbfec825f4db6d
+	com.apple.quarantine	  67 
+
+./.git/objects/35:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   193 Dec 17  2013 a6c317b324ff43691fbf71d0bf28f93fa8e1d6
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2288 Jan 17  2013 b84cffeb4db607983c8383fa9199731dc3aba0
+	com.apple.quarantine	  67 
+
+./.git/objects/36:
+total 56
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  20047 Aug 26  2016 8551cc8e020f58dac9f850853687282a2a760b
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   6975 Jan  3  2014 c7264ccb9cbcafdc1c75c0227ce739a59df3c1
+	com.apple.quarantine	   67 
+
+./.git/objects/37:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   327 Aug 26  2016 0fedc76ff62919f32ef54d42e5ca91a0a90803
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1586 Jun 18  2013 836981152af7259d6c9b4b249c4a960232a1dd
+	com.apple.quarantine	  67 
+
+./.git/objects/38:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   281 Jul  5  2013 c4df83be7b1c51ef1ec89bb8fee9527dab949c
+	com.apple.quarantine	  67 
+
+./.git/objects/3a:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   164 Jan 17  2013 1a1f4b4943c33265316118f1440a5e89b4c232
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   168 Jan 17  2013 d8bc856b55c1592a1a1f150e9e8d1486e32cb2
+	com.apple.quarantine	  67 
+
+./.git/objects/3b:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   393 Jan 17  2013 37e3e0d1ebe06f86b57fc2f76e86ad67b154e8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5631 Oct 16  2013 7c33d29ad3048fbc57b0730f8b2173036729e8
+	com.apple.quarantine	  67 
+
+./.git/objects/3c:
+total 704
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  352176 Dec 26  2013 2cc01d746a3caec929aff48f3c82fa5784710c
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     634 Dec 26  2013 2f2da82e6c9e4d600664591571eeeea15f7828
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1312 Oct 16  2013 eb59acab9bb9616e719a04bce37db34574c3cd
+	com.apple.quarantine	    67 
+
+./.git/objects/3d:
+total 2384
+drwx------@   7 ysong0  KMART\Domain Users      238 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      378 Oct 16  2013 0018e2b961947857016f873f39ddacb60a4d9b
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      218 Jan 19  2013 5af51fea438bb08f6c5bded5eca98a601ca9ec
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     1373 Jan  7  2014 65f846cc8c7a97b203bca56053b6a17ecaecf4
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  1200414 Jun 27  2013 edb08fca00e70d2b0a4cb58e70d5d5b6da17e1
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     2323 Aug 23  2013 f51d1612de95f2781fcb43870debeaf411eb24
+	com.apple.quarantine	     67 
+
+./.git/objects/3e:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   285 Apr 25  2013 d809f55c5afc21ba33f6ca9ddc2af062229967
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   356 Aug 26  2016 fe79a6ed0c7c09154ce7d9dd566346ada5b723
+	com.apple.quarantine	  67 
+
+./.git/objects/3f:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   278 Jun 27  2013 81397731d367ded85c02c9fd6c5da5dd967638
+	com.apple.quarantine	  67 
+
+./.git/objects/40:
+total 688
+drwx------@   9 ysong0  KMART\Domain Users     306 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     175 Aug 26  2013 48406b86607872478698ccc80aa3a302548f90
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     321 Apr 25  2013 49533b28b44135b12b0267c6bad872d61f3c13
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1490 Jun 18  2013 5256c5f49876fbbd85a25ca51d667fce73104f
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1954 Jun 24  2013 6a143fb977db91b4a19e63e0bd59e17898ba95
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     188 Oct 16  2013 6c569fb9331154b89affd4ea3da938ed08ec18
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  327543 Dec  9  2013 70071f2937352d33a1f625caeac97345d5508c
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2482 Jun 18  2013 741e7f10dcbbc9a0ecee9354c11a6da12ece0e
+	com.apple.quarantine	    67 
+
+./.git/objects/41:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   474 Apr 25  2013 cbd21d6e3080fb41c9af029a337edfabee190a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1312 Nov 12  2013 db520ccfa43f802256f8991144d659a611f1a3
+	com.apple.quarantine	  67 
+
+./.git/objects/42:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1359 Dec 26  2013 eb8b890bc97abfc6613d8ff9cf52015bede546
+	com.apple.quarantine	  67 
+
+./.git/objects/43:
+total 1080
+drwx------@   7 ysong0  KMART\Domain Users     238 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     164 Mar 26  2013 edaff50e957e6e1f49d02037cfed2e186774b5
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    4864 Aug 26  2016 f1d4031ba4d77141e74af1bf6f867e14898d42
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   53726 Dec  9  2013 f49da4c34f177930c3cbb222a018dd610a466c
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  478593 Dec 26  2013 fa1936e69bfea3f06e9f369e92924ac3f48218
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     348 Aug 23  2013 fa697ae780028cb7ee30dc5b7cd94fe6070034
+	com.apple.quarantine	    67 
+
+./.git/objects/44:
+total 56
+drwx------@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1406 Jan 17  2013 17f97c901f82aa8458ef51440bc474b0c7672f
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    333 Aug 26  2016 23314045ce344a6f73ffe6c7bdefe738ddb977
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    393 Jan  6  2014 a8f1f902b3f89dfc36b348be0ab483cbbf918c
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1613 Dec 26  2013 d0bff0a113e92ae1f38a8b2031e7c51ebffc62
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  11082 Jan  3  2014 e853ddfaa8924eaf52fc79300ddbcc2c6ce017
+	com.apple.quarantine	   67 
+
+./.git/objects/45:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   270 Aug 26  2016 a460a3188f297995eba8094fab2a9ea9b7be4f
+	com.apple.quarantine	  67 
+
+./.git/objects/46:
+total 64
+drwx------@   6 ysong0  KMART\Domain Users    204 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1827 Jun 27  2013 01993083e7f01d2f058bbbdd0492e6af3c72f1
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  19504 Jan  2  2014 1cace1a5510af28cb46eba3b478b486b0e643a
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    169 Nov 12  2013 7254269b072763aeaece73f84f975552e0d871
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1066 Jun 24  2013 bf091c672d82fc6cb18e478f63e9cb67359502
+	com.apple.quarantine	   67 
+
+./.git/objects/47:
+total 112
+drwx------@   6 ysong0  KMART\Domain Users    204 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  42495 Jan 17  2013 4b797d568f702f0eb728775d65cc41b71084a3
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users     61 Jan 17  2013 7b28ff8f86a3158a71c4934fbd3a2456717d7a
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    944 Jun 27  2013 dbcf6a89e9abd289bb765c306b896809eba3f4
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    568 Dec 17  2013 eb53d9123062e32fb41a39a279f177d53eaffb
+	com.apple.quarantine	   67 
+
+./.git/objects/48:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:50 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   577 Jun 27  2013 74f5cf6d80e9d8d0752a57e722e24a4a09136a
+	com.apple.quarantine	  67 
+-r--r--r--    1 ysong0  KMART\Domain Users   378 Aug 25 14:50 b13ca2b3a65a445298342d2f4327785ea3e40c
+-rw-------@   1 ysong0  KMART\Domain Users  1473 Nov 12  2013 c99b9f056b88a7b93bbc378b77fa7dea05b728
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   895 Jun 19  2013 d5200255ee3013558da3ed7f6295fc2b49c677
+	com.apple.quarantine	  67 
+
+./.git/objects/49:
+total 128
+drwx------@   3 ysong0  KMART\Domain Users    102 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  61653 Dec  9  2013 7bd90d681bda041890c7cab0e638f5dc997282
+	com.apple.quarantine	   67 
+
+./.git/objects/4a:
+total 992
+drwx------@   4 ysong0  KMART\Domain Users     136 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  503451 Dec  9  2013 41a355f88765adb9b81e8658a38645ea0d49d4
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     211 Jan 17  2013 fb6d853b4eb66088ff88f035e4d551a1de8e88
+	com.apple.quarantine	    67 
+
+./.git/objects/4c:
+total 480
+drwx------@   4 ysong0  KMART\Domain Users     136 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2053 Jan 17  2013 8ca6f693f96d511e9113c0eb59eec552354e42
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  240552 Dec 26  2013 c0c47d7295bbcefdf80dd4f981a8a30e0ded1f
+	com.apple.quarantine	    67 
+
+./.git/objects/4d:
+total 744
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2277 Dec 26  2013 672462cd4be02809fb455b1df13e07f9e8fdd8
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1245 Apr 25  2013 daabc93348e9d2e2997a99d30853f4ca367a5b
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  370057 Dec  9  2013 eaaa93fa39008f4210f0d45d97fdba40be7095
+	com.apple.quarantine	    67 
+
+./.git/objects/4e:
+total 336
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1062 Jun 27  2013 32720d408917ae936695e2a2047c54136a5742
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1360 Jan  7  2014 83e28d3789cac772255ae6129d6be3eb7745b6
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  163502 Dec  9  2013 97b5b50a586e445102634d494a750855f44c1b
+	com.apple.quarantine	    67 
+
+./.git/objects/50:
+total 464
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  226989 Jan  2  2014 0eb4bbaf40482dcc9373d2ac8e7b35ec5f75c2
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     708 Jun 19  2013 22dd0b37d3ce691a45a5eb33f6560ae8387e8a
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2451 Aug 26  2013 936c5f4f07dff3648a6e4d177806fb3a22d9e3
+	com.apple.quarantine	    67 
+
+./.git/objects/51:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1281 Oct 24  2013 0e4bc6ed5e18c14e488b4e9cfa1e014e2da199
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1150 Dec 26  2013 19748f8efc8f0011aa672b463152542faf6066
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   567 Aug 26  2013 8e3cd124f843c948219d0890c102a8ebbcd4ea
+	com.apple.quarantine	  67 
+
+./.git/objects/52:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1210 Oct 11  2013 71897d5f56fb47b1ebded9899a31baccfb92cb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   194 Aug 23  2013 dfc57e05cff7b7e6f81af61ed9fef0a46853f6
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   371 Jan  6  2014 fe2d29c3164913d4023ad05b17021a54877462
+	com.apple.quarantine	  67 
+
+./.git/objects/53:
+total 208
+drwx------@   8 ysong0  KMART\Domain Users    272 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    500 Dec 17  2013 01bd1122579c385a9178ff6d292784133cde25
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    477 Jun 18  2013 5a510768c2260edbb7699bb402477da7676a89
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    354 Dec 18  2013 8fe581a07e04c285d1749ef64466921b8f3fe9
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    737 Jun 18  2013 aa442dac5fa42b7c0a1b318c207ad873e3a824
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  84731 Dec  9  2013 cada7285dafb97ced78c3aea48f5c3cdac0a89
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   2417 Apr 25  2013 cd2ce0c1f98c9f97838b2fea6db736091fd4e9
+	com.apple.quarantine	   67 
+
+./.git/objects/54:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   780 Dec 26  2013 21648a4001b5e6a62f12ce7a3327d4907591b5
+	com.apple.quarantine	  67 
+
+./.git/objects/55:
+total 40
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    210 Dec 26  2013 15d7324ed0a211577a5c0debaad6c2a4309f3a
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  11908 Jan  6  2014 90e6a73f4ecf23952a68b3db24df2d42a07eeb
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1337 Dec 26  2013 fd02477bfaab1aee464f659d41f80710d70817
+	com.apple.quarantine	   67 
+
+./.git/objects/57:
+total 48
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1087 Jun 17  2013 1750a18ea6cb3b702bedba184fb6c72a11a0cd
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   557 Dec 19  2013 29df69737b8fbf48e85108cb1f077ac4719113
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  4573 Jun 17  2013 46afe1d3e0eb858c25d4ae1a48c0b4b9d39dfc
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   188 Aug 23  2013 654edb94e97923ad4ccd6a57964850b6362729
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1830 Jun 19  2013 e1747462d234931d030a5bc2e16956b4a4e74f
+	com.apple.quarantine	  67 
+
+./.git/objects/58:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2622 Dec 17  2013 7191029639e5d24a9ad8f401169a4a40d2ca1f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3025 Jun 24  2013 806f705babf4868b5fdd385254161907872f92
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1546 Oct 11  2013 b9613541fdcca1a09a75ee7a73b608e73ec49d
+	com.apple.quarantine	  67 
+
+./.git/objects/59:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   342 Dec 16  2013 8386cfe36bbeac521fb46f312085a3d2e94491
+	com.apple.quarantine	  67 
+
+./.git/objects/5a:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:50 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   335 Aug 26  2016 9eaaf7a946b0bee4bdd00cffda76a99bd3d6e7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2171 Nov 12  2013 c2a7029743f29f75ced7832443c38e3983d709
+	com.apple.quarantine	  67 
+-r--r--r--    1 ysong0  KMART\Domain Users   381 Aug 25 14:50 cb379c3aa9eb19e039f5597fe7687c2cc50267
+-rw-------@   1 ysong0  KMART\Domain Users   513 Jun 19  2013 fd67d97324226d93ef36675d86a87aec97fb4d
+	com.apple.quarantine	  67 
+
+./.git/objects/5b:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1722 Nov 12  2013 169719d223833e28b9ab258efa05eeb206db6c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   135 Jan 17  2013 c7f0c02b7d39d25337c39b84cbef957899d9fd
+	com.apple.quarantine	  67 
+
+./.git/objects/5c:
+total 96
+drwx------@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   3116 Jun 18  2013 12cf1042168a7b6c929f5e79f25fe34d4ec4fa
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    553 Dec 17  2013 1d215fc875dcd438fdca4a40c879f169a31ffa
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  29832 Jan 17  2013 333758c404d56fe7abc15930f420d0753fa722
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    462 Dec 17  2013 783d8f018ba1f3f6ae805ff26ac1b62a62fca2
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1315 Dec  8  2013 f24125bb20192b8768fa44559aed8a4db1d68a
+	com.apple.quarantine	   67 
+
+./.git/objects/5d:
+total 72
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  32561 Jan 17  2013 121499355ed279f131356d4ef9f52206f9a46a
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    168 Jan 17  2013 93f1704156692af42948fadc951e751f5aeb34
+	com.apple.quarantine	   67 
+
+./.git/objects/5e:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1861 Jun 19  2013 0f15578ba206ec4d3a11f333c64d588c09f1cb
+	com.apple.quarantine	  67 
+
+./.git/objects/5f:
+total 56
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    187 Oct 16  2013 ae62a5d3b0bccfe1804cfb082bd8a1dadaf393
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  22569 Aug 26  2016 c2aafe2ec2ead64ecb04b7c035f60429c1dc8c
+	com.apple.quarantine	   67 
+
+./.git/objects/60:
+total 976
+drwx------@   8 ysong0  KMART\Domain Users     272 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     234 Jan 17  2013 12f0ce202ff7ab24bdea9d403b82e3ac938b9b
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   50525 Jan  6  2014 3480157674d2d5ba7cd9fa1cbff28e8d2f8d63
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     313 Apr 25  2013 9c88908861b3467fbc2024dbcb7027e0dcead1
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     194 Dec 18  2013 b965c59b4dac199a93f306d28fedb88e96951d
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   37478 Jan 17  2013 c01dc043b0c3fb3462915f661dcdfa3b5eb269
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  391011 Dec  9  2013 e85e33a7d41c7df7df45929c946d62bde77ab0
+	com.apple.quarantine	    67 
+
+./.git/objects/63:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3304 Oct 24  2013 3b1d2828e177799fba3f06fd95fabdba262e82
+	com.apple.quarantine	  67 
+
+./.git/objects/64:
+total 152
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  66951 Jun 18  2013 85adf14a1dc4eb89afa711200de8abc6e12696
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1289 Jun 17  2013 c4f3c7e9c9088cd105bc949046d9198fc9361c
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    194 Oct 24  2013 fbbef73f1bfe696886c4e93b4de1e4629b5116
+	com.apple.quarantine	   67 
+
+./.git/objects/66:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   473 Jun 18  2013 0354477e193ea2de08e4a18f82ce5cfb8e685b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2582 Jun 19  2013 cd0f668a941cc42d1e58ffbb4ace25d008eb19
+	com.apple.quarantine	  67 
+
+./.git/objects/67:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   780 Aug 26  2013 18984a7824c51df06e7daac114a39788a4997b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   715 Jun 24  2013 917b29527b53103dbc6065f64e46edfe640ae6
+	com.apple.quarantine	  67 
+
+./.git/objects/68:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2505 Jun 19  2013 a154930bb7d6befb29375058a8f2424d4c5689
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   426 Apr 25  2013 bbd829bac3a5660b6ca1f033d433c33f8717ef
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   266 Jan  2  2014 c462fe6ff697290a93b19a4eb8a37872bb41b3
+	com.apple.quarantine	  67 
+
+./.git/objects/69:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1319 Oct 16  2013 1c27fb5e101ac200112586564561488f147cef
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   168 Jun 17  2013 be9f2f98da9f1086f435c4a95d8fc2df7a2385
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Nov 20  2013 cc2acb89b86583d1b5c1b4c8363eb6ac868593
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   828 Jun 24  2013 d183864135185e05e32469208d623a5fecb1c2
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2313 Jun 19  2013 fd1c144adad846794caad608e950e9f722fc8a
+	com.apple.quarantine	  67 
+
+./.git/objects/6a:
+total 48
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1363 Dec 17  2013 4efe580614d6bc81b57e5b10e685aea14ba394
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   352 Jan  6  2014 8dfe989210488ebf10b5380fa3a93185a31ea4
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   388 Oct 24  2013 d867a40a39086f2cd847f96c3ad9aff6a46e09
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2103 Apr 25  2013 dcba86df9cccd9be50c3985617c08f44bb82c5
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  4167 Dec 18  2013 e5343763748ab5718b8e2c47da23769e11aec1
+	com.apple.quarantine	  67 
+
+./.git/objects/6b:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   777 Oct 11  2013 40052dd0c4b3b58777e07f33f327ca4c60e6ba
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   831 Jan 19  2013 5f26ed9dcfddf729d6f0378e6982ae5868ac7b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   448 Dec 26  2013 907769ea8a1f9ff319805535c2d54e1880f0d1
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   408 Jun 17  2013 9a030a8c79256d11a1613c08600575c882fcbb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   413 Aug 23  2013 ac019e3a6e7d864c326b70f0122dcbad618c26
+	com.apple.quarantine	  67 
+
+./.git/objects/6c:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   485 Jun 19  2013 3d1210716103538b52c00e608e50a6b9aec3a9
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   881 Apr 25  2013 8dbecc900d55ec8b00d61893b2db4cc3397469
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   907 Jun 27  2013 db262d84b446570650d131187a6c4c2e3f1b92
+	com.apple.quarantine	  67 
+
+./.git/objects/6d:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   152 Jun 25  2013 087ef054edbe8bd793c2bd893f0afb7f057057
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3788 Dec 26  2013 21d2a12802f6f8dfdcb24c41a8d69b3be04c7d
+	com.apple.quarantine	  67 
+
+./.git/objects/6e:
+total 48
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1266 Oct 11  2013 05857fed46d50659111ad538bb9ecf32adebe7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   259 Jan  2  2014 62e23ca8a49d95c7d8717510e6ed065f8a660c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   534 Jan 19  2013 810c1d33a9488c7c756be0d6f4e7ddbaf24875
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  9107 Dec 26  2013 d6f89a32b1ad7558353d64044cad6affee2662
+	com.apple.quarantine	  67 
+
+./.git/objects/6f:
+total 192
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    166 Jan 19  2013 bff09b95a7de8b29c1c9813d3318c33d0e6141
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  91820 Jan  6  2014 fb5464bbaff94c66e1671dc47619350c854485
+	com.apple.quarantine	   67 
+
+./.git/objects/70:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   788 Dec 17  2013 25c8d44c62ae56a4dad963c40863ff97046d41
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   176 Jan 27  2013 dc27ae3dc292075000feed8fab077921523cc1
+	com.apple.quarantine	  67 
+
+./.git/objects/71:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1442 Apr 25  2013 4dbf05405e9be4b38151a8f970bbf8e474f645
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1366 Dec 26  2013 ddefe80c5630b627d9a2ecdef4c25583b82c56
+	com.apple.quarantine	  67 
+
+./.git/objects/72:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   426 Jun 17  2013 2cdc38b5fd85a5e09b67e5f8c1350632f41885
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    57 Oct 16  2013 ae4545f2cd821a65e593defb1172afa1f21494
+	com.apple.quarantine	  67 
+
+./.git/objects/73:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1098 Dec 26  2013 660f4d054d841d62f250f59155a5cd093a2c08
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   172 Jun 24  2013 d0ef0ae5788c07f9bf9f7e67c834b76a620f48
+	com.apple.quarantine	  67 
+
+./.git/objects/74:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3282 Oct 11  2013 56e892a5794b01238a4aecc5bb38cd78a02bbb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3670 Dec 26  2013 883767179eab45e3ef9a375eec686777940f08
+	com.apple.quarantine	  67 
+
+./.git/objects/75:
+total 128
+drwx------@  11 ysong0  KMART\Domain Users    374 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    138 Jun 25  2013 0fb8c2d858a37261685660a19b854fb8a2fb0e
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  15050 Jan  2  2014 1c9de9ca9d5ae494ec773e49fedc2364a3c5bc
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    194 Nov 12  2013 22c1ad9e03e0aa5ad3b2a28dc70adf531a44c7
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   3328 Jun 27  2013 3e2b8bafebc6fae5f099235485879cd877e61c
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1954 Jan 19  2013 6af6f0431b663f639b0b79a99c5273a39a9a73
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    347 Aug 26  2016 8e396e830825cff45c0397da7ff5d9aadf44ab
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    923 Jun 25  2013 b4999d44fa720428e183837e2c3c0ea14e1940
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  13762 Jan 18  2013 c0735b4ba1b267e748224cf7f235f986e014a4
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   5142 Aug 23  2013 c6301f32b62ec8c27c3cd446a576d8a2d1773a
+	com.apple.quarantine	   67 
+
+./.git/objects/76:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3349 Dec 17  2013 8fdfac1a3f5f2695c2dc1658b4a5d76032d3bf
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   689 Oct 24  2013 ef467c308b2994f4ce829aad60ea82f76cd9b5
+	com.apple.quarantine	  67 
+
+./.git/objects/77:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   305 Jan  6  2014 84eadf11f0c76be511514a771d4ddcadad1c7e
+	com.apple.quarantine	  67 
+
+./.git/objects/78:
+total 32
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5923 Jun 18  2013 57220884436f58da5213d023a8ac077682341e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1948 Oct 16  2013 74d145e6156e4df1d4e235ab487248cfc07378
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   747 Dec 26  2013 e093bbc9ce3e5fd8d29a77dcad0f7edaa1d9cd
+	com.apple.quarantine	  67 
+
+./.git/objects/7b:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1349 Jun 27  2013 3c9a47f45e4277e6ad0c1c5807eac8055da427
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1277 Jun 25  2013 76488ae55f3bb2bdaf94cef0f41393caedc8e4
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   388 Jan 17  2013 d8304036d7fe5e7e532216fe6bdbcc278b799a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2114 Aug 23  2013 dbd62c0956f0621c4cdeefc1b1f10904d71750
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   262 Jan  2  2014 df03919a8e4ee3ce971edead2ee36561b63e76
+	com.apple.quarantine	  67 
+
+./.git/objects/7c:
+total 1080
+drwx------@   7 ysong0  KMART\Domain Users     238 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     139 Jun 17  2013 42c9478702b96c4a53f0ba55f4214e93355d81
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     815 Apr 25  2013 5106a263fffe9ed15b8e53876bbc4fe95da6a2
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     347 Dec 23  2013 6af15688339f5aacb3ce381cc5ed42dc5262f5
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  535092 Dec  9  2013 a2c37ac408d45e7ec8ba0a80ac4ebba3e3c969
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    3396 Apr 25  2013 e98150d9beaa56e892d8af7ffad75471f52530
+	com.apple.quarantine	    67 
+
+./.git/objects/7d:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   354 Jun 18  2013 296434ee9072ddf7831575e2243b9f9491ab43
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1368 Dec 17  2013 3df7c9ffc83aa33c883f5fcad6446b74f926dc
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   310 Aug 26  2016 4413737c7908ae3558dcdade0bf0e132e43862
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   215 Oct 16  2013 5fecac77cdd376f00d6597dbca83065e40dcab
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1430 Jun 18  2013 e82377486550505a87fcab5a32ae70ed6fe780
+	com.apple.quarantine	  67 
+
+./.git/objects/7e:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1519 Aug 26  2013 2ed196119b69304b157a4f5de3e5b959e795e1
+	com.apple.quarantine	  67 
+
+./.git/objects/7f:
+total 712
+drwx------@   4 ysong0  KMART\Domain Users     136 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     858 Dec 17  2013 4427df9e555d57ff763efeb3b7c4a930fa1b85
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  359583 Jan 18  2013 e93b5ec29048ee524f59c5235ca0ecb9578534
+	com.apple.quarantine	    67 
+
+./.git/objects/81:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1324 Dec 17  2013 ca747fa98bd88124bef9c64e5ab3313aa50adb
+	com.apple.quarantine	  67 
+
+./.git/objects/82:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1577 Jun 17  2013 50ac49ce455afa350d0d4b1a6c70cc0d242086
+	com.apple.quarantine	  67 
+
+./.git/objects/83:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1073 Jun 17  2013 01007e72a104ecedf3a6aaf8310e8cf8a9d530
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   173 Aug 23  2013 0a9524cf65bf1ef1e6db502b843e732f60004f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   654 Dec 26  2013 3f8110c78fb697c919f5cd45748dfd9aaa09dc
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1377 Jun 17  2013 7bc8a661018b0049e21f826881839c979fd110
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3931 Jan  2  2014 fcc2a3cacb589dc5e2228f4ad6447f92a5135f
+	com.apple.quarantine	  67 
+
+./.git/objects/84:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1366 Dec 26  2013 a0a3de812cc9ea05231901c0360273c9bf58e8
+	com.apple.quarantine	  67 
+
+./.git/objects/85:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   321 Jun 27  2013 39547ebfe4599f8b0a8f0be677ed91e913dd09
+	com.apple.quarantine	  67 
+
+./.git/objects/86:
+total 4184
+drwx------@   6 ysong0  KMART\Domain Users      204 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  1962973 Jun 19  2013 2d532e894c6e0e0d9af8f2f803228b7c0c17f8
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      315 Jan 19  2013 54f319fc65bf9ff5f28c404cebf8dd7b56336f
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users   166788 Dec 26  2013 59a103951c08e6ad94d0e15d77a6d6b13a15d3
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      197 Dec 26  2013 dac897d8e4379b1a6d39a516b1ca83b69ddbee
+	com.apple.quarantine	     67 
+
+./.git/objects/87:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   247 Aug 26  2016 0dedad41ebd6db583486857c12627ab4a72e43
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1531 Dec 26  2013 23cc26bf3773605b0b80cb8c469153a365079e
+	com.apple.quarantine	  67 
+
+./.git/objects/88:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   235 Jan 19  2013 6da8ac9e7fa96221c23f813117d6f1c8a35029
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1828 Jun 18  2013 879a6ae28e0deb80d2494680c7ed954b2f0796
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1498 Aug 26  2013 e0dd53b3fee5ce38d65f0edf3a4874aa154409
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   678 Jun 18  2013 ee7ce8cfa9e84136246e0c9a7cb15e92778829
+	com.apple.quarantine	  67 
+
+./.git/objects/89:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   171 Jan 17  2013 d998836268c06fc59bf086a497d8c664a21c90
+	com.apple.quarantine	  67 
+
+./.git/objects/8a:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1098 Nov 12  2013 a311b59fb045780d38a59915d5e5ff1bfd8eec
+	com.apple.quarantine	  67 
+
+./.git/objects/8b:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2058 Dec 26  2013 724e84917afbe9d9eeb4fa1efbdb94dc8bafa8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   723 Jun 19  2013 ee884d8e1ef5c02e7ac36a269bf2cd7fb5950e
+	com.apple.quarantine	  67 
+
+./.git/objects/8c:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1090 Oct 24  2013 6fcda9a360ba0a458755b0ea800537beed981f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   782 Aug 23  2013 dbf18fcf35e09a4a096eb625a20acd7cf159ea
+	com.apple.quarantine	  67 
+
+./.git/objects/8d:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1132 Jun 17  2013 1f0fb9c2574df1d51f1751b03b9e03f657c662
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1458 Dec 26  2013 79010f3ea0a1f0f61606397e5f3d887349e759
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1410 Jun 25  2013 a967c9ead1b96e3d5f109dd460ef186ec0e70a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   414 Jun 27  2013 ebfb52ecc9bd43fc693fa9e075d6d29380bb16
+	com.apple.quarantine	  67 
+
+./.git/objects/8f:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1068 Jul  5  2013 285f88ae95e60cf6046e603c19dc7ce3e173a8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   127 Jan  7  2014 55dc94e5388c90f7e75feef1a5e2c30135ee82
+	com.apple.quarantine	  67 
+
+./.git/objects/90:
+total 2240
+drwx------@   8 ysong0  KMART\Domain Users      272 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      872 Jun 24  2013 0e26fb98a4e7106999a5a220064706a1c32ded
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     2025 Oct 24  2013 20722fabae61942cc0ab0222d59f4170c6bdc7
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     1431 Jun 19  2013 63569a07bc00edce38accc7aa0c3ebcf6537d4
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     1532 Dec 17  2013 780700c6e5b8fc082abe810ce109ca36a6679f
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  1092781 Jan 17  2013 7cf6f3073fb533d87ad410c7056a760b00d8c8
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users    33166 Aug 26  2016 a480e2536c930d8b5d689b3292629cd15598a0
+	com.apple.quarantine	     67 
+
+./.git/objects/92:
+total 1128
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   33332 Jan  6  2014 6d07d7145d929e3761c382e229b5af0eff30db
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   16327 Jan 18  2013 c9820d6b36c34ef8880c2b101b4adf81cb7fdf
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  523194 Dec 26  2013 eb0836534e4ef0f14cb9c2987fa7e3a93751c0
+	com.apple.quarantine	    67 
+
+./.git/objects/93:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   507 Aug 23  2013 0ce282d28549247e9c06482f4ac3ca9870edc7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   612 Dec 17  2013 525a83230be9c9ac27e6a640f3eeadb5e98017
+	com.apple.quarantine	  67 
+
+./.git/objects/94:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   743 Jun 27  2013 9f4781bd208bcbed5daf16dfa5017f63a07590
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   221 Dec 18  2013 aae1b5bd8b3ac409199842332bac21b08dc8db
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   834 Jun 17  2013 f2fb68472a3327fbd73d6ae109536a00973f5f
+	com.apple.quarantine	  67 
+
+./.git/objects/95:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   793 Dec 26  2013 0e0bf5478128ea54f1400e155623c551ac1a57
+	com.apple.quarantine	  67 
+
+./.git/objects/96:
+total 672
+drwx------@   4 ysong0  KMART\Domain Users     136 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  336612 Dec 26  2013 60bc67130c4ce6c3f6515bbf690b13e21406a5
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1324 Jun 17  2013 ea8de1d277e77006ec65666ab2e3020794134e
+	com.apple.quarantine	    67 
+
+./.git/objects/97:
+total 160
+drwx------@   6 ysong0  KMART\Domain Users    204 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    421 Aug 26  2013 09f592238550bd693513e9eb9056f74e5fcecd
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  51821 Jun 18  2013 786e0dce44a18e046f2465e6c7dcb0192e0633
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    345 Aug 26  2013 9eea486f953eb727680b324d794b5e9af51b9c
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  16939 Jan 19  2013 b47f85d6e6140a884af827b18b71cdac2c76ed
+	com.apple.quarantine	   67 
+
+./.git/objects/99:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1488 Jun 17  2013 32d531166a0949dd1608a51113f62a57adc90b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   146 Aug 26  2013 67e54b3c9295f496c35cad17adebb2b569357a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2103 Dec 26  2013 b16738bf05e87dda0c90d7b23e63b449d88432
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Aug 26  2016 d0bf8a305ad0da464d960faacf3b02bf772272
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   786 Dec 26  2013 defa5032f9c085a1ef4c6de65a1d145fbc1c39
+	com.apple.quarantine	  67 
+
+./.git/objects/9a:
+total 32
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  8412 Aug 26  2016 8976eea4955b9ef63522e924270b528fa957a1
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   338 Aug 26  2016 e97b09cb409901a4c353e4429dda5076ce9c07
+	com.apple.quarantine	  67 
+
+./.git/objects/9b:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   370 Jan  6  2014 97cfa918b2fc74e7431e8eda5d34171db876ac
+	com.apple.quarantine	  67 
+
+./.git/objects/9c:
+total 32
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  6384 Aug 26  2016 3df5159d88409e84785aa1a7150c1e2a0eba72
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   375 Jan  6  2014 886367ee31334cb66225255cba28390461faa8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   151 Aug 23  2013 d2c589d9c4fc288aca78af5bc626c2b0c65925
+	com.apple.quarantine	  67 
+
+./.git/objects/9d:
+total 904
+drwx------@   7 ysong0  KMART\Domain Users     238 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  446318 Dec  9  2013 15885de36a5fe1af0f7f5cd9e7c55570a94b41
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     185 Oct 16  2013 232bff3424081109ecf1b562da64b8a5862b96
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     654 Apr 25  2013 26c9830150a9d08e3be56ca0a27e68dcca460c
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     244 Dec 17  2013 50befeb3da4885103188db85448e22ce084863
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     566 Jun 24  2013 cb84036b88b96f5ea24db6c896a6310cf45271
+	com.apple.quarantine	    67 
+
+./.git/objects/9e:
+total 1712
+drwx------@   6 ysong0  KMART\Domain Users     204 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  844250 Dec 26  2013 30051b55a60033a5797b36161bb2dde019bb0e
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     705 Jun 27  2013 500e4cf84e75da52a88e697a8efd715f2abdde
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     496 Jun 27  2013 6e86601e0ce5179c340eb785d6726a6f18e943
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users   20398 Jan  2  2014 94fc0aea103edc082726caf44057e5e3c954de
+	com.apple.quarantine	    67 
+
+./.git/objects/9f:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2622 Jun 19  2013 313406b93a0ee9bb555be938f7a74e41b6b08e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   248 Dec 26  2013 72a9f10596eefe2fdc55a54bfbfe4d07851833
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   544 Dec 26  2013 a8c40b1cb5f23ea8490e15813f2574c566a035
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   717 Jan 17  2013 be23e4d963cf376759d6b7c1ee005848139fe8
+	com.apple.quarantine	  67 
+
+./.git/objects/a0:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   334 Aug 26  2016 14749336816caa323eacba797342973d6d0c54
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1343 Aug 23  2013 16f7064a72d92fe2033936e1bdc74f2828d61e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   642 Jun 25  2013 48c736dd29c5662db47a15d918c9dd5997c39f
+	com.apple.quarantine	  67 
+
+./.git/objects/a1:
+total 48
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    379 Jan  6  2014 1a72963e780ac35a37df6f2db4f6ba3c37db7d
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    536 Jun 25  2013 69791b89792123e7a2eaf9e6d36a72a0043cd8
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  13846 Jan  3  2014 f408a3b062195a3dd84302eea9ba43e5a78b7b
+	com.apple.quarantine	   67 
+
+./.git/objects/a2:
+total 600
+drwx------@   6 ysong0  KMART\Domain Users     204 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     559 Jan 19  2013 480c0a6d81cb85c906164a98966b3ac4f5cfe7
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     317 Jan  2  2014 a7d966d0dee7998fdff55ec02eb016a47e0dfe
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  290909 Dec  9  2013 f90cda74483d0046162b1aee52bf9781654a3c
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     352 Oct 24  2013 f9925175caec73ee542d9b3ecc12f71f726bde
+	com.apple.quarantine	    67 
+
+./.git/objects/a4:
+total 224
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  105935 Dec  9  2013 17484ee22e3e26607d4dcba418db95cd4f4135
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1450 Jan 17  2013 d7d4a921c9117930182c8518ccbc0ee9b3426f
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users      58 Jun 17  2013 e18df8365a4235a660c0bb48134135fe604ceb
+	com.apple.quarantine	    67 
+
+./.git/objects/a5:
+total 112
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1537 Jan  7  2014 0a4c6e311199c5c5f21dac1206ee0ee34cb03b
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    325 Aug 26  2016 605a178760cd88f2ca05a77b6355816a24ebe8
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  46864 Jan 18  2013 a4e499941e319de5731a760cb0c1a8139d4023
+	com.apple.quarantine	   67 
+
+./.git/objects/a6:
+total 16
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5352 Jun 25  2013 26b81eff29855227aaca0482bb9a2ace68d07f
+	com.apple.quarantine	  67 
+
+./.git/objects/a7:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   776 Jun 27  2013 3159465787f347f4f0faeaf62ec282b20097ca
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   625 Aug 23  2013 5ca5ed734ad7269ef53fe4f1998e509b311558
+	com.apple.quarantine	  67 
+
+./.git/objects/a9:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   270 Dec 17  2013 115404986b3bca2abcfc44c8d81a71299a6b8c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2777 Dec 26  2013 124b08e540cb7cae081b86679b6cf20f4a82c8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   386 Jan 17  2013 8f79ee44940adaa1d1c4ee418a7941870c6ea7
+	com.apple.quarantine	  67 
+
+./.git/objects/ac:
+total 2272
+drwx------@   8 ysong0  KMART\Domain Users      272 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      360 Jun 24  2013 065970336fd713ad4af5c6d67f7f317b9a7ce2
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users    10681 Jan  3  2014 0778f5415ecb72d024df4a9ab3978ba480cbb3
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users     2010 Jul  5  2013 29931d7a2183ba31864a276a4fd59a4bb717a5
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  1132532 Dec 26  2013 c15ca5244a7ddbb9e29206e3d9c910b77e7df2
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      954 Aug 23  2013 ff119dcfe0ac22d28aadc0dadbf9d15e93d3cd
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      306 Aug 26  2016 ff7745129839a44397f244a91e923f7cb28827
+	com.apple.quarantine	     67 
+
+./.git/objects/ad:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   332 Jan  6  2014 2b41fbeec9cf5e5431d96517dff9f84f91aea0
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1404 Dec 26  2013 f46c49dc42ab365e5359afb04be6cbc21b29ca
+	com.apple.quarantine	  67 
+
+./.git/objects/b0:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    57 Oct 24  2013 be33c3d0d0ed3f7099a129ba9c8f32fa5d8fe2
+	com.apple.quarantine	  67 
+
+./.git/objects/b1:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1351 Jun 25  2013 c9aaec4289e4cb919dc71de0516a39cdf7e1d1
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1472 Oct 24  2013 cfa95c5da1d072c318eba22785d207374492b8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   334 Aug 26  2016 fa7291064ff5ef10e586b3aed66d282e9be691
+	com.apple.quarantine	  67 
+
+./.git/objects/b3:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Aug 26  2016 82d2f78a6ca6d86445f3b0abe79b68f52fd691
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1466 Dec 26  2013 ecbb012cb084296ca35fec81f55191d28378fc
+	com.apple.quarantine	  67 
+
+./.git/objects/b4:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   280 Aug 26  2016 541b110b0c9943d07c17a16b2f31787f49a683
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   167 Jun 27  2013 769ebbe2d57f7c07c352c898556ba33377b081
+	com.apple.quarantine	  67 
+
+./.git/objects/b5:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2813 Jan 17  2013 02169b5df67f90157d30801daaf7341aeb0dec
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1162 Jun 27  2013 81b6f8ca42d0f4204511beece62d822a804466
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   194 Dec 26  2013 87bddd842a324fb7428fa22ad79fbfc329d453
+	com.apple.quarantine	  67 
+
+./.git/objects/b6:
+total 16
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  6558 Jun 17  2013 c2441064e3ac3b82e97bd24c23b537a37c57ed
+	com.apple.quarantine	  67 
+
+./.git/objects/b7:
+total 72
+drwx------@   7 ysong0  KMART\Domain Users    238 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users     57 Jan 17  2013 375580faab9e5c326f2a13ccb997ed23d43f59
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    248 Jun 27  2013 3f807ae7bdad5e1ed6a35c51750dfcb98d1267
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1405 Dec 10  2013 7121f70bcf83cf871f75ccd984bf9905eae199
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  17810 Aug 26  2016 a8b1ada22f10d329744eb5aa273879bb1dbe47
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    193 Jun 17  2013 d826b5c63aa789a1717461675f826dba65e44c
+	com.apple.quarantine	   67 
+
+./.git/objects/b8:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2364 Dec 26  2013 49de81fd35eae07ab7cb32da53a3c8cd8fcffc
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   249 Jan 17  2013 cb90543828074c88437dcd137f51e579416190
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   708 Jun 27  2013 d63b0f6348dc14347222beca8782f5be5339a7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   171 Aug 26  2013 e2ca60bc0727b27e61692ac926d3de8638a9a8
+	com.apple.quarantine	  67 
+
+./.git/objects/b9:
+total 40
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    241 Dec 17  2013 5c3ca92b85d756c60a5c7645a33923aca56577
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1203 Dec  9  2013 87424d88ac6cc28f53483ec5cb1bdfc3866a79
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  11750 Jan  6  2014 97adf7701f0d249f2aecd6c596df15f7d8143e
+	com.apple.quarantine	   67 
+
+./.git/objects/bb:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    57 Dec 18  2013 89098e691e36e38f309bc3ccf18220b2979880
+	com.apple.quarantine	  67 
+
+./.git/objects/bc:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    58 Dec 17  2013 10b98f5ff6428b3da3cc361a8a6e5a3d667551
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   345 Jan 19  2013 19fbdc655fd4a1d90bcac33b5c83c64793318e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   934 Jun 17  2013 27ba90bc833c7201784579ed8f3ab3b9944e7f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   285 Oct 11  2013 4ca1af7d9b899065be76072d3ab52525b0dc6e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   287 Dec 18  2013 a430c215d195c21b0e6e7d90a7d9d924dc2279
+	com.apple.quarantine	  67 
+
+./.git/objects/bd:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   782 Dec 17  2013 25a48f085677ac59d899351daf0c9ca4e89686
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   301 Oct  6  2014 3a197705b930d63b94af95ff346f06ff609dcb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   193 Jun 25  2013 a7de97195a75c028eba9f365f111982a7b8eec
+	com.apple.quarantine	  67 
+
+./.git/objects/be:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1496 Jan 18  2013 f0ec16683860094fd5d5ee2260b9803ff428cd
+	com.apple.quarantine	  67 
+
+./.git/objects/bf:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   333 Aug 26  2016 41c111ca109dd89a082be810e410acd78a2da5
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5708 Oct 24  2013 86306e47eca27c46560d372a776899e01ba34b
+	com.apple.quarantine	  67 
+
+./.git/objects/c0:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   893 Jan 17  2013 2a603015786005f1efce8fb32bbdef41c5794e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   976 Jun 27  2013 596d0daa8b411faa6ffb4a84b61b94d8761405
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   408 Jun 18  2013 5dc78cfe99deaf8c9b0cf5d3d62126d0715573
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3783 Dec 26  2013 8eb58f43a4eac7b512a286e5ca6e9decb4772d
+	com.apple.quarantine	  67 
+
+./.git/objects/c1:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2469 Jun 17  2013 5aeec0caa37f2da7327d4547e4cc1bd0edaba1
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  4045 Aug 26  2016 f5227904503283577f40b86c5fb3b5b6f9437f
+	com.apple.quarantine	  67 
+
+./.git/objects/c2:
+total 32
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   756 Jun 27  2013 05269e509f00d4f910b8ea9dc6fb92406b780c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  7520 Dec 17  2013 25675a3af6cf2dd9bbc15a3d268753fa31fdf6
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   551 Jan 17  2013 815e4651a6640f9f24251a2a840c280c043a4d
+	com.apple.quarantine	  67 
+
+./.git/objects/c3:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   488 Jan 18  2013 105ed0275f7f5c15fd59788874b5faaf61d83f
+	com.apple.quarantine	  67 
+
+./.git/objects/c4:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  7130 Jan  3  2014 9ee48d7bc7189f15791834972b99365817e82e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Jun 27  2013 e5a147f1299a0178f9ed8560f9d537529ee578
+	com.apple.quarantine	  67 
+
+./.git/objects/c5:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   327 Aug 26  2016 a440cd2f695993ab8004cbfaabd59ff5d73bfc
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3571 Jul  5  2013 eda3fb9d0f931e0d3c1a5ac1673b68522eff0f
+	com.apple.quarantine	  67 
+
+./.git/objects/c6:
+total 80
+drwx------@   6 ysong0  KMART\Domain Users    204 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    168 Aug 26  2013 05875ba0bc388ea42142ba11d8aa507eb2cd34
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    355 Jun 24  2013 1d6dd8d18ebfe6408819a6d6450721e70d096d
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1085 Dec 17  2013 8ccfa59e0a1d3600fa16cbe61b9fc5c9895383
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  25920 Jun 18  2013 94e8c6c3055d772b6accfb3a2afaeaaa9e2320
+	com.apple.quarantine	   67 
+
+./.git/objects/c8:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   234 Jan 18  2013 98d89fb8f03fee748cc00b70bfa5680a037471
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3756 Dec 17  2013 fb9de8cb81bd0b28e32542b2ae3da62b9a142b
+	com.apple.quarantine	  67 
+
+./.git/objects/c9:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1565 Dec  9  2013 9550f0e264446cfa03cf58496eeb0fc57caaac
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   703 Jan 17  2013 acc6d05345e5a8009b6bab86376ce9e0ad8547
+	com.apple.quarantine	  67 
+
+./.git/objects/ca:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2078 Oct 24  2013 540cc0ced54de81b42cc96aa5b00c99c346d9d
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   188 Nov 12  2013 69dede32f4376174b71a87e628577c644578ea
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   870 Dec  9  2013 90f4342c3130121accb5a8cca97b43f313bf50
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1436 Dec 17  2013 eeb2fdd93d8e04561db24febad501e3464467d
+	com.apple.quarantine	  67 
+
+./.git/objects/cc:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1791 Dec 26  2013 e3790a1a05c4ab3fda849c25603ed5174973bb
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  4205 Dec  9  2013 fe6e7c0f791f997517bc7d2264aa409c0d0b3c
+	com.apple.quarantine	  67 
+
+./.git/objects/cd:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Aug 26  2016 2f91dafe225fe4662e5fcb33570fe3a8ea2d30
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1408 Jun 24  2013 3b48db8f475e061e3a0143998f5b159f2ecd3d
+	com.apple.quarantine	  67 
+
+./.git/objects/ce:
+total 32
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1315 Aug 23  2013 03a08efe52169be6fdddbfbeb175988d1e598b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1265 Jun 24  2013 4504d296b42382d159a8ca2a3710d5dd8e718e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  7710 Aug 26  2016 4f9675f27bf79cf3fba706541ec1decaaf9992
+	com.apple.quarantine	  67 
+
+./.git/objects/cf:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   446 Dec 18  2013 518f088e9dd0baa78635aa1db63e40538bf5a0
+	com.apple.quarantine	  67 
+
+./.git/objects/d0:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2323 Dec 17  2013 4bffba37ba04129d76735b2f262e730510b85a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   360 Jun 19  2013 95a8c7ec2ae45c0823d0582a7fb46ef1e8e5cf
+	com.apple.quarantine	  67 
+
+./.git/objects/d1:
+total 400
+drwx------@   4 ysong0  KMART\Domain Users     136 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  198779 Dec  9  2013 3299e15d20d95df0e6bee8493f6c77847fad7a
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    2458 Jun 27  2013 86a533d2ad689ec0e8eb366c6e2321b4a34d28
+	com.apple.quarantine	    67 
+
+./.git/objects/d2:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   350 Jun 17  2013 01857b4bc99a71821582470b54a924851b5440
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   359 Jan  6  2014 a91c30a647e4298646f1ef07eb8777faa26819
+	com.apple.quarantine	  67 
+
+./.git/objects/d4:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   354 Jun 25  2013 0c52fbb105d022bbf9de4fdf844ccd61cb291c
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2162 Jun 18  2013 5e8ec2ff16c1ae91b3c6856ca7b7e63b3a6671
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   777 Oct 11  2013 63163cd019878dc7da7ad531aceaad66f8d08e
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1453 Dec 26  2013 975fdfa1a9876943b00ceafde332b2621740a4
+	com.apple.quarantine	  67 
+
+./.git/objects/d5:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   358 Aug 26  2016 47f7facc1c20a7012a0a7ed6de2b2d7d84e977
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   275 Apr 25  2013 8d88c8b563ee97e49985ea29b658e2b97f59ff
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2314 Jun 18  2013 a5169d60ebd7afacfb371f746d73b1da671c7d
+	com.apple.quarantine	  67 
+
+./.git/objects/d6:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   173 Nov 20  2013 426e6d5b1d685b9a3ffe0335d2539a8e41f325
+	com.apple.quarantine	  67 
+
+./.git/objects/d7:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   344 Mar 26  2013 5ea6fa38e52917a98239924e8aa2faa4b12193
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   293 Jan  2  2014 722d39b00cc5f4558920a935d0a73f7f83429b
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1455 Oct 24  2013 93c9cd0048cdd5fd306695dc1b8757da527c39
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   401 Aug 26  2013 d6ebb8fbf01687ba68cb9bda95a7ad1d15c61c
+	com.apple.quarantine	  67 
+
+./.git/objects/d8:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1268 Aug 23  2013 29d10e6de20db0b71dc00ccc8f59ff85480975
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   570 Jun 24  2013 60db241f2a3350f218a193e097d410f3559d76
+	com.apple.quarantine	  67 
+
+./.git/objects/d9:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1440 Oct 16  2013 01efe48da16df0516beeca6a4558ac8853c7ad
+	com.apple.quarantine	  67 
+
+./.git/objects/da:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    65 Aug 26  2016 4a164c918651cdd1e11dca5cc62c333f097601
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   186 Oct 24  2013 8d2027bde8e47801e7b1823d0d7b29e1ba4c36
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1907 Jun 18  2013 ad515ff114a97864412727850f236cd898d293
+	com.apple.quarantine	  67 
+
+./.git/objects/db:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   227 Jan  2  2014 199e1eefcb646cdff4da92d857773f3c1e16ad
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1588 Dec 26  2013 31d70c533ca6449b29a798623b68528e777613
+	com.apple.quarantine	  67 
+
+./.git/objects/dc:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   896 Jun 27  2013 70e7c88af74d59fccc832f04624d34376194ea
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   286 Aug 26  2016 80475b685b3be228eea8521dcc07d96af3ce91
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2108 Jan  7  2014 cabd77b78e09d02f7d5ee74ad9d7a9ac5f9332
+	com.apple.quarantine	  67 
+
+./.git/objects/dd:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   306 Jan 17  2013 432f11245f3cdd60895728bb3c016a217bb2b9
+	com.apple.quarantine	  67 
+
+./.git/objects/de:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   681 Jun 18  2013 01e92ac071efa67a9e9dc5ae9fb905cc5c23e6
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   351 Jun 24  2013 463c92279082cdb448a97bd7974045f89f8e81
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   551 Jan 17  2013 fdc63e4de354ef5e5bd4e3d11420f8da61c144
+	com.apple.quarantine	  67 
+
+./.git/objects/e0:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   166 Jan  7  2014 2196a7024d2d0fd5a882764ea31dc225d04682
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1257 Aug 23  2013 919da423139a21d15996d8a185282fd07fb583
+	com.apple.quarantine	  67 
+
+./.git/objects/e1:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   625 Dec 18  2013 4a2b3097cf9a20cffe8b1ff068e5c8e8bff308
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   347 Aug 26  2016 77c106b7f387740de05f53b95d17a9bdb51bce
+	com.apple.quarantine	  67 
+
+./.git/objects/e2:
+total 48
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  14745 Jan 18  2013 4f3903520a016ad0ad237f14c0c3b8eec031f7
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    494 Jun 25  2013 940a76f8ec3ac45903bb62d3d3e1c97d621cd0
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1191 Jun 19  2013 dfc180c2359fc6aab30a166639866c6226105c
+	com.apple.quarantine	   67 
+
+./.git/objects/e3:
+total 24
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   323 Aug 26  2016 88c20baa28ee9e471b131b398107d2a767137d
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  7708 Dec 18  2013 d764ac09a63320f75e2ee2d1365c66874e603b
+	com.apple.quarantine	  67 
+
+./.git/objects/e4:
+total 32
+drwx------@   6 ysong0  KMART\Domain Users   204 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1246 Dec 18  2013 72f8741c517e2f145296f21f5526b392ea2d2a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1454 Jan 17  2013 7a0da85dfebf0e30a739bbfef03c5f7f9c1fff
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   221 Dec 17  2013 c4491c88a88ecfeb3c8adcd6f4ad6e838f9780
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   323 Aug 26  2016 f0512dcbbee67ad5162941af45930f733a820d
+	com.apple.quarantine	  67 
+
+./.git/objects/e5:
+total 40
+drwx------@   3 ysong0  KMART\Domain Users    102 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  19566 Jan  2  2014 f6b45eca25b70058bc5c7ae4bc1ab5646b7a28
+	com.apple.quarantine	   67 
+
+./.git/objects/e6:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users    15 Jan  6  2014 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+	com.apple.quarantine	  67 
+
+./.git/objects/e7:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   426 Oct 16  2013 fa44348aff25f8dd1c646c0021326bdb398025
+	com.apple.quarantine	  67 
+
+./.git/objects/e8:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1254 Oct 16  2013 08d0c7b1a408a4bb3146b89ef5b7da0257a543
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   188 Aug 23  2013 e025d518eb009d2498b200fd32ca6c152672bb
+	com.apple.quarantine	  67 
+
+./.git/objects/e9:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   349 Jun 18  2013 d855ad54c18f627ab6430a8d1fc6089554d7e4
+	com.apple.quarantine	  67 
+
+./.git/objects/ea:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   492 Oct 16  2013 2d87af376716b45901179160b12b982b3cb2aa
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   623 Dec 26  2013 89e38451e95ef419031c5b1309dde95843f239
+	com.apple.quarantine	  67 
+
+./.git/objects/ec:
+total 56
+drwx------@   4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  22692 Jan  2  2014 2e3de3019529b89ffa9395b855820e9bfa5784
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   1336 Dec  9  2013 b6b39319ae227a31f841681c3b68a0de61e622
+	com.apple.quarantine	   67 
+
+./.git/objects/ed:
+total 1144
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     454 Oct 11  2013 3c0ed9127fe8423307b7b2c3b9c7ccd6b78d97
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  575666 Jan  2  2014 44b8b4b84f4c1fc2c4b59ed1ccc7c77cf34337
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     363 Jun 18  2013 d12e998f97056d3e1c4870a1c46aa2b0ed60e0
+	com.apple.quarantine	    67 
+
+./.git/objects/ee:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1449 Dec 18  2013 10b7b3b8dcce31aceee890d5f37cf19740b9e8
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   354 Aug 26  2016 fd72912987e3f56d22f1bd0e61f259b1ebbe42
+	com.apple.quarantine	  67 
+
+./.git/objects/ef:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1445 Aug 26  2016 25072c05a28b3307d252a0fa00067da7f852c1
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   164 Jun 18  2013 33e0e717bdc2faaca7dc350ad59180f2f401db
+	com.apple.quarantine	  67 
+
+./.git/objects/f0:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   518 Jun 25  2013 b389be142838d04bf9be93ab6977a4cce7bf79
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1007 Dec 17  2013 f2c46da49cdfbb285c9f546beb253e6f3c974a
+	com.apple.quarantine	  67 
+
+./.git/objects/f1:
+total 144
+drwx------@   5 ysong0  KMART\Domain Users    170 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users   3235 Jun 18  2013 3533295149320e7302f648cfc149df11e3d99e
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  64975 Dec  9  2013 a7504fde40fee2c82c838ed6284e6f897b4db6
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users    357 Jun 27  2013 e3c81c53f36850b8791f55b71090d5e1b2f730
+	com.apple.quarantine	   67 
+
+./.git/objects/f2:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   782 Aug 23  2013 087c6b39f28191032df503027044950e992eec
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   561 Jan 18  2013 39e887ea719f2603dfad503363560307b86625
+	com.apple.quarantine	  67 
+
+./.git/objects/f3:
+total 5768
+drwx------@   5 ysong0  KMART\Domain Users      170 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users     7752 Aug 25 14:50 ..
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users      327 Apr 25  2013 401b7f21df0a18323e6741856a5e8660b478ac
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users   205376 Dec 26  2013 79b450ae44e2dcec09d6ac897174c67eb63dff
+	com.apple.quarantine	     67 
+-rw-------@   1 ysong0  KMART\Domain Users  2736345 Jun 19  2013 ef00b6ea6ed04e6f9b8ece3c4272a8175fd514
+	com.apple.quarantine	     67 
+
+./.git/objects/f4:
+total 376
+drwx------@   9 ysong0  KMART\Domain Users     306 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    1392 Dec 18  2013 090677e8bbeca5137350f9c2ead5ad9b50d032
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     537 Nov 12  2013 1a09909770e74a9fc0878c64ad2bec173e098d
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users    3228 Aug 23  2013 53471494843f6754aa90f9ca99a0e187644d13
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     531 Jun 24  2013 585629a16e8313030767e4dc63da757e808e01
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  165583 Dec 26  2013 ad10aeb2e6e9b36825f84d481114b2f811c3b4
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     413 Jun 18  2013 e8412fcb2ec039db4805fa52d004cad9a76bc6
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     166 Dec 18  2013 f34a3c4672c2a9d0966b0f4c8b40841c065970
+	com.apple.quarantine	    67 
+
+./.git/objects/f5:
+total 8
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3297 Oct 16  2013 13974715b25fb61f609ca6d14910aacaaa24ff
+	com.apple.quarantine	  67 
+
+./.git/objects/f6:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2438 Jun 25  2013 115d21c1a8ccc82c816bf500c882ccb77f5bf2
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   175 Dec 18  2013 51f07e417209f0a3ec876c39fe5ddb19728895
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3312 Jun 27  2013 d4652c52b1fc074b5d514c82e2230553f8fb69
+	com.apple.quarantine	  67 
+
+./.git/objects/f7:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1652 Jul  9  2013 77590ac771ed22574057a62f414941344bc981
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  2130 Jun 18  2013 8a2e649a779214f1e22ebb479eb4f58c7aa760
+	com.apple.quarantine	  67 
+
+./.git/objects/f8:
+total 16
+drwx------@   4 ysong0  KMART\Domain Users   136 Aug 25 14:50 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   875 Jun 27  2013 b2afb1b859c9b9db6596355264351a92294cc3
+	com.apple.quarantine	  67 
+-r--r--r--    1 ysong0  KMART\Domain Users   363 Aug 25 14:50 d9d7205261f41a70a669b3f48c2ad1fb349b67
+
+./.git/objects/f9:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   715 Dec 26  2013 9e4c58cefbda68f615c02d1f47b2fe1abdf43a
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   768 Jun 27  2013 b1a6cc15cd602b69860cf5923a4da8427d9f16
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   347 Aug 26  2016 b943a88a6088e3cf338d520b7267194b78557b
+	com.apple.quarantine	  67 
+
+./.git/objects/fa:
+total 16
+drwx------@   3 ysong0  KMART\Domain Users   102 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  5930 Dec 26  2013 d9565e04dc1c74efa9db5f5bf0e55cb0f93e28
+	com.apple.quarantine	  67 
+
+./.git/objects/fb:
+total 24
+drwx------@   5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1420 Dec 19  2013 1405b0a7787d0a514c3bf31abed1f31a60708f
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   610 Jun 27  2013 3e3b8d8993a21c1c99622dad9b41ba4e6f5b63
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  3600 Dec 26  2013 d31fd66921790e684305044c0c0514afd678aa
+	com.apple.quarantine	  67 
+
+./.git/objects/fd:
+total 40
+drwx------@   7 ysong0  KMART\Domain Users   238 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   225 Jan 18  2013 144538e6eeee517872197e4f13490b8c4d9a57
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   440 Jun 18  2013 2c87a17e918a88a88c9d7893f627067130cfa7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   519 Oct 24  2013 3498c216c98602091d216ab40dac27520d1fb7
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users  1497 Dec 26  2013 8bc892cbe8c1f63492c37c59c166434e6f5589
+	com.apple.quarantine	  67 
+-rw-------@   1 ysong0  KMART\Domain Users   400 Jan 27  2013 ddc5ddca4b96df5d6ef3cb1d6261d26d6aa635
+	com.apple.quarantine	  67 
+
+./.git/objects/fe:
+total 80
+drwx------@   3 ysong0  KMART\Domain Users    102 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users   7752 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------@   1 ysong0  KMART\Domain Users  40663 Dec 26  2013 a49e1b51d1c29083395164f7c026e98b2b847c
+	com.apple.quarantine	   67 
+
+./.git/objects/ff:
+total 256
+drwx------@   5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users    7752 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users  121781 Dec 26  2013 1c4e352dd1f8c02e6c0870fbac486dcb160659
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     422 Aug 26  2013 7e13b21e93683f8922c8dee8d68fafefede595
+	com.apple.quarantine	    67 
+-rw-------@   1 ysong0  KMART\Domain Users     988 Dec 26  2013 caf6dd2311a6a1b9ef583cca83da1cc2f00f0f
+	com.apple.quarantine	    67 
+
+./.git/objects/info:
+total 0
+drwx------@   2 ysong0  KMART\Domain Users    68 Jan 17  2013 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+
+./.git/objects/pack:
+total 0
+drwx------@   2 ysong0  KMART\Domain Users    68 Jan 17  2013 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 228 ysong0  KMART\Domain Users  7752 Aug 25 14:50 ..
+	com.apple.quarantine	  67 
+
+./.git/refs:
+total 0
+drwx------@  4 ysong0  KMART\Domain Users  136 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 13 ysong0  KMART\Domain Users  442 Aug 25 14:50 ..
+	com.apple.quarantine	 67 
+drwxr-xr-x@  3 ysong0  KMART\Domain Users  102 Aug 25 14:47 heads
+	com.apple.quarantine	 67 
+drwx------@  2 ysong0  KMART\Domain Users   68 Jan 17  2013 tags
+	com.apple.quarantine	 67 
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x@ 3 ysong0  KMART\Domain Users  102 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+-rw-------@ 1 ysong0  KMART\Domain Users   41 Dec 26  2013 master
+	com.apple.quarantine	 67 
+
+./.git/refs/tags:
+total 0
+drwx------@ 2 ysong0  KMART\Domain Users   68 Jan 17  2013 .
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+
+./Fun collages:
+total 656
+drwx------@ 64 ysong0  KMART\Domain Users   2176 Aug 25 14:58 .
+	com.apple.quarantine	   67 
+drwx------@ 14 ysong0  KMART\Domain Users    476 Aug 25 15:06 ..
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    270 Jan 17  2013 AppDelegate.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2216 Jan  2  2014 AppDelegate.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  10249 Dec 14  2013 Appirater.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  20350 Dec 14  2013 Appirater.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    650 Dec 14  2013 AppiraterDelegate.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1591 Dec 18  2013 BackgroundCollectionViewCell.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1055 Feb 13  2012 CurledViewBase.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2798 Feb 13  2012 CurledViewBase.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1041 Aug 26  2016 FCCollageView.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  12900 Aug 26  2016 FCCollageView.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1792 Aug 26  2016 FCCollageView_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1829 Jan  7  2014 FCCollageView_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1807 Jan  7  2014 FCCollageView_iPhone3.5.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    671 Jun 25  2013 FCCollectionViewCell.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    920 Jun 24  2013 FCCollectionViewCell.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4338 Jun 24  2013 FCCollectionViewCell.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1232 Dec 26  2013 FCItemPicker.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  12973 Jan  6  2014 FCItemPicker.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    536 Aug 26  2016 FCPicture.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1614 Jan  6  2014 FCPicture.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2125 Jan  6  2014 FCPictureEditingVC.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  23865 Aug 26  2016 FCPictureEditingVC.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    719 Aug 25  2016 FCPreviewPicture.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1221 Aug 25  2016 FCPreviewPicture.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   3163 Dec 20  2013 FCPreviewPicture_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   3076 Aug 23  2013 FCPreviewPicture_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1169 Dec 19  2013 FCSideMenu.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1392 Dec 19  2013 FCSideMenu.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    697 Dec 19  2013 FCText.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   3672 Dec 24  2013 FCText.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    340 Dec 23  2013 FCTextEditor.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2365 Dec 24  2013 FCTextEditor.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    772 Aug 25  2016 FCThumbPicture.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1853 Aug 25  2016 FCThumbPicture.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   3395 Jun 20  2013 FCThumbPicture_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------   1 ysong0  KMART\Domain Users   1953 Aug 25 14:58 Fun collages-Info.plist
+-rw-------@  1 ysong0  KMART\Domain Users    327 Jan 17  2013 Fun collages-Prefix.pch
+	com.apple.quarantine	   67 
+drwx------@ 48 ysong0  KMART\Domain Users   1632 Aug 25 14:47 Graphics
+	com.apple.quarantine	   67 
+drwx------@  6 ysong0  KMART\Domain Users    204 Aug 25 14:50 Images.xcassets
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    282 Dec 18  2013 ItemCollectionViewCell.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    570 Dec 18  2013 ItemCollectionViewCell.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2843 Aug 26  2016 Launch Screen.storyboard
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1382 Aug 25  2016 MainMenu.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  15772 Aug 30  2016 MainMenu.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    714 Aug 26  2013 QuietAssertMacros.c
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    616 Aug 26  2016 StripView.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4894 Aug 26  2016 StripView.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    311 Nov 21  2013 StripViewBlock.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1030 Dec 20  2013 StripViewBlock.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1918 Dec 20  2013 StripViewBlock_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1835 Dec  8  2013 StripViewBlock_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1197 Jan  7  2014 StripView_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1176 Jan  7  2014 StripView_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   1547 Oct 24  2013 TileScrollView.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6062 Jan  2  2014 TileScrollView.m
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    967 Feb 13  2012 UIImageView+Curled.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2712 Feb 13  2012 UIImageView+Curled.m
+	com.apple.quarantine	   67 
+drwx------@ 17 ysong0  KMART\Domain Users    578 Aug 25 14:47 en.lproj
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6433 Jul 11  2013 fishhook.c
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   2287 Jul 11  2013 fishhook.h
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    329 Jan 17  2013 main.m
+	com.apple.quarantine	   67 
+drwx------@ 17 ysong0  KMART\Domain Users    578 Aug 25 14:47 zh-Hans.lproj
+	com.apple.quarantine	   67 
+
+./Fun collages/Graphics:
+total 27376
+drwx------@ 48 ysong0  KMART\Domain Users     1632 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwx------@ 64 ysong0  KMART\Domain Users     2176 Aug 25 14:58 ..
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   693023 Jan  6  2014 Background23.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    54388 Jan  6  2014 Default.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9387 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   130074 Jan  6  2014 Default~ipad.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    45969 Jan  6  2014 Default~iphone.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9429 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    10659 Jan  3  2014 Icon114.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  16102 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    11060 Jan  3  2014 Icon120.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  16440 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    13824 Jan  3  2014 Icon144.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  20779 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    15028 Jan  3  2014 Icon152.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  22355 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users     5744 Jan  3  2014 Icon57.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   8929 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users     6954 Jan  3  2014 Icon72.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  10610 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users     7109 Jan  3  2014 Icon76.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  10935 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users     1212 Dec 10  2013 YellowArrow.png
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users     1973 Dec 10  2013 YellowArrow@2x.png
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   212337 Dec 26  2013 background1.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   479191 Dec 26  2013 background10.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    65230 Dec 26  2013 background11.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   599730 Dec  9  2013 background12.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   320132 Dec  9  2013 background13.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   887564 Dec  9  2013 background14.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   833944 Dec  9  2013 background15.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   390936 Dec  9  2013 background16.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    29868 Dec 26  2013 background17.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    29897 Dec  9  2013 background18.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    28926 Dec 26  2013 background19.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   394678 Dec  9  2013 background2.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    29903 Dec 26  2013 background20.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    29026 Dec 26  2013 background21.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    29172 Jan  6  2014 background22.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   601603 Dec  9  2013 background3.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   469250 Dec  9  2013 background4.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    70684 Dec  9  2013 background5.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   509945 Dec  9  2013 background6.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   531637 Dec  9  2013 background7.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   241263 Dec 26  2013 background8.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   530188 Dec 26  2013 background9.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   843972 Sep 14  2011 beach2.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users  1200030 Oct 19  2011 billborad1.png
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   165597 Jun 27  2012 colorful.jpg
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    28603 Jan  6  2014 launch1024.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9383 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    15429 Jan  6  2014 launch480.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9228 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   954836 Sep 14  2011 leaves.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   336779 Jun 27  2012 scroll.jpg
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users  1132590 Nov 17  2011 texture1.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   355464 Mar  2  2012 texture4.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   194942 Mar  2  2012 texture8.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   209179 Mar  2  2012 texture9.JPG
+	com.apple.quarantine	     67 
+
+./Fun collages/Images.xcassets:
+total 8
+drwx------@  6 ysong0  KMART\Domain Users   204 Aug 25 14:50 .
+	com.apple.quarantine	  67 
+drwx------@ 64 ysong0  KMART\Domain Users  2176 Aug 25 14:58 ..
+	com.apple.quarantine	  67 
+drwx------@ 21 ysong0  KMART\Domain Users   714 Aug 25 14:50 AppIcon.appiconset
+	com.apple.quarantine	  67 
+drwxr-xr-x@  6 ysong0  KMART\Domain Users   204 Aug 25 14:47 Brand Assets.launchimage
+	com.apple.quarantine	  67 
+-rw-------@  1 ysong0  KMART\Domain Users    62 Aug 26  2016 Contents.json
+	com.apple.quarantine	  67 
+drwxr-xr-x@  9 ysong0  KMART\Domain Users   306 Aug 25 14:47 LaunchImage-4.launchimage
+	com.apple.quarantine	  67 
+
+./Fun collages/Images.xcassets/AppIcon.appiconset:
+total 568
+drwx------@ 21 ysong0  KMART\Domain Users    714 Aug 25 14:50 .
+	com.apple.quarantine	   67 
+drwx------@  6 ysong0  KMART\Domain Users    204 Aug 25 14:50 ..
+	com.apple.quarantine	   67 
+-rw-------   1 ysong0  KMART\Domain Users   2835 Aug 25 14:50 Contents.json
+-rw-------@  1 ysong0  KMART\Domain Users   4024 Aug 26  2016 Icon-App-29x29@1x-1.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4024 Aug 26  2016 Icon-App-29x29@1x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6363 Aug 26  2016 Icon-App-29x29@2x-1.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6363 Aug 26  2016 Icon-App-29x29@2x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   9175 Aug 26  2016 Icon-App-29x29@3x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4843 Aug 26  2016 Icon-App-40x40@1x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   8391 Aug 26  2016 Icon-App-40x40@2x-1.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   8391 Aug 26  2016 Icon-App-40x40@2x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  13107 Aug 26  2016 Icon-App-40x40@3x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  13107 Aug 26  2016 Icon-App-60x60@2x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  22542 Aug 26  2016 Icon-App-60x60@3x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7689 Aug 26  2016 Icon-App-76x76@1x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  17783 Aug 26  2016 Icon-App-76x76@2x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  20020 Aug 26  2016 Icon-App-83.5x83.5@2x.png
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  10659 Aug 26  2016 Icon114.png
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	16102 
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  13824 Aug 26  2016 Icon144.png
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	20779 
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5744 Aug 26  2016 Icon57.png
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	 8929 
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6954 Aug 26  2016 Icon72.png
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	10610 
+	com.apple.quarantine	   67 
+
+./Fun collages/Images.xcassets/Brand Assets.launchimage:
+total 520
+drwxr-xr-x@ 6 ysong0  KMART\Domain Users     204 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwx------@ 6 ysong0  KMART\Domain Users     204 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users    1150 Aug 26  2016 Contents.json
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   54388 Jan  6  2014 Default.png
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	  9387 
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users  130074 Jan  6  2014 Default~ipad.png
+	com.apple.FinderInfo	    32 
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   45969 Jan  6  2014 Default~iphone.png
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	  9429 
+	com.apple.quarantine	    67 
+
+./Fun collages/Images.xcassets/LaunchImage-4.launchimage:
+total 864
+drwxr-xr-x@ 9 ysong0  KMART\Domain Users     306 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwx------@ 6 ysong0  KMART\Domain Users     204 Aug 25 14:50 ..
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users    2314 Jan  6  2014 Contents.json
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   54388 Jan  6  2014 Default.png
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	  9387 
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users  130074 Jan  6  2014 Default~ipad-1.png
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users  130074 Jan  6  2014 Default~ipad.png
+	com.apple.FinderInfo	    32 
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   45969 Jan  6  2014 Default~iphone.png
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	  9429 
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   28603 Jan  6  2014 launch1024.png
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   15429 Jan  6  2014 launch480.png
+	com.apple.quarantine	    67 
+
+./Fun collages/en.lproj:
+total 240
+drwx------@ 17 ysong0  KMART\Domain Users    578 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwx------@ 64 ysong0  KMART\Domain Users   2176 Aug 25 14:58 ..
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5652 Jan  2  2014 BackgroundPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4920 Jan  2  2014 BackgroundPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5516 Dec 20  2013 ColorPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5059 Dec 18  2013 ColorPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4485 Dec 24  2013 FCKeyboardAccessoryView.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6522 Jan  7  2014 FCPictureEditingVC_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7823 Dec 19  2013 FCSideMenu_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7967 Jan  6  2014 FCSideMenu_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7260 Dec 26  2013 FontPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6797 Dec 26  2013 FontPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users     45 Jan 17  2013 InfoPlist.strings
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    323 Jan  7  2014 Localizable.strings
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   9285 Jan  3  2014 MainMenu_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7745 Jan  7  2014 MainStoryboard_iPad.storyboard
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  11062 Sep  2  2016 MainStoryboard_iPhone.storyboard
+	com.apple.quarantine	   67 
+
+./Fun collages/zh-Hans.lproj:
+total 248
+drwx------@ 17 ysong0  KMART\Domain Users    578 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwx------@ 64 ysong0  KMART\Domain Users   2176 Aug 25 14:58 ..
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5657 Jan  7  2014 BackgroundPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4925 Jan  7  2014 BackgroundPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5518 Jan  7  2014 ColorPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   5061 Jan  7  2014 ColorPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   4488 Jan  7  2014 FCKeyboardAccessoryView.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6521 Jan  7  2014 FCPictureEditingVC_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   8228 Dec 19  2013 FCSideMenu_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7968 Jan  7  2014 FCSideMenu_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7264 Jan  7  2014 FontPicker_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   6801 Jan  7  2014 FontPicker_iPhone.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users     45 Jan 17  2013 InfoPlist.strings
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    340 Jan  7  2014 Localizable.strings
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   9284 Jan  7  2014 MainMenu_iPad.xib
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users   7744 Jan  7  2014 MainStoryboard_iPad.storyboard
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  10953 Jan  7  2014 MainStoryboard_iPhone.storyboard
+	com.apple.quarantine	   67 
+
+./Fun collages.approj:
+total 32
+drwx------@  6 ysong0  KMART\Domain Users    204 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwx------@ 14 ysong0  KMART\Domain Users    476 Aug 25 15:06 ..
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users    492 Feb 19  2014 .sconsign.dblite
+	com.apple.quarantine	   67 
+drwx------@  2 ysong0  KMART\Domain Users     68 Feb 19  2014 assets
+	com.apple.quarantine	   67 
+-rw-------@  1 ysong0  KMART\Domain Users  12264 Feb 19  2014 configuration.json
+	com.apple.quarantine	   67 
+drwx------@  3 ysong0  KMART\Domain Users    102 Aug 25 14:47 targets
+	com.apple.quarantine	   67 
+
+./Fun collages.approj/assets:
+total 0
+drwx------@ 2 ysong0  KMART\Domain Users   68 Feb 19  2014 .
+	com.apple.quarantine	 67 
+drwx------@ 6 ysong0  KMART\Domain Users  204 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+
+./Fun collages.approj/targets:
+total 0
+drwx------@ 3 ysong0  KMART\Domain Users  102 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 6 ysong0  KMART\Domain Users  204 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Feb 19  2014 Fun collages
+	com.apple.quarantine	 67 
+
+./Fun collages.approj/targets/Fun collages:
+total 120
+drwx------@ 5 ysong0  KMART\Domain Users    170 Feb 19  2014 .
+	com.apple.quarantine	   67 
+drwx------@ 3 ysong0  KMART\Domain Users    102 Aug 25 14:47 ..
+	com.apple.quarantine	   67 
+-rw-------@ 1 ysong0  KMART\Domain Users  22563 Feb 19  2014 Release.final
+	com.apple.quarantine	   67 
+-rw-------@ 1 ysong0  KMART\Domain Users  22348 Feb 19  2014 Release.generated
+	com.apple.quarantine	   67 
+-rw-------@ 1 ysong0  KMART\Domain Users  12153 Feb 19  2014 Release.overrides.json
+	com.apple.quarantine	   67 
+
+./Fun collages.xcodeproj:
+total 144
+drwx------@  5 ysong0  KMART\Domain Users    170 Aug 25 15:00 .
+	LastUpgradeCheck	    4 
+drwx------@ 14 ysong0  KMART\Domain Users    476 Aug 25 15:06 ..
+	com.apple.quarantine	   67 
+-rw-------   1 ysong0  KMART\Domain Users  70270 Aug 25 15:00 project.pbxproj
+drwxr-xr-x@  4 ysong0  KMART\Domain Users    136 Aug 25 14:47 project.xcworkspace
+	com.apple.quarantine	   67 
+drwx------@  5 ysong0  KMART\Domain Users    170 Aug 25 14:47 xcuserdata
+	com.apple.quarantine	   67 
+
+./Fun collages.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 15:00 ..
+	LastUpgradeCheck	  4 
+-rw-------@ 1 ysong0  KMART\Domain Users  157 Jan 17  2013 contents.xcworkspacedata
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 xcuserdata
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 Song.xcuserdatad
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 yangsong.xcuserdatad
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 15:01 ysong0.xcuserdatad
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/project.xcworkspace/xcuserdata/Song.xcuserdatad:
+total 128
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users    136 Aug 25 14:47 .
+	com.apple.quarantine	   67 
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users    170 Aug 25 14:47 ..
+	com.apple.quarantine	   67 
+-rw-------@ 1 ysong0  KMART\Domain Users  60145 Jun 28  2013 UserInterfaceState.xcuserstate
+	com.apple.quarantine	   67 
+-rw-------@ 1 ysong0  KMART\Domain Users    332 Jan 19  2013 WorkspaceSettings.xcsettings
+	com.apple.quarantine	   67 
+
+./Fun collages.xcodeproj/project.xcworkspace/xcuserdata/yangsong.xcuserdatad:
+total 552
+drwx------@ 5 ysong0  KMART\Domain Users     170 Aug 25 14:47 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users     170 Aug 25 14:47 ..
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users   95989 Dec 17  2013 UserInterfaceState (Yangs-iMac's conflicted copy 2013-12-16).xcuserstate
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users  176415 Sep  3  2016 UserInterfaceState.xcuserstate
+	com.apple.quarantine	    67 
+-rw-------@ 1 ysong0  KMART\Domain Users     332 Jun 18  2013 WorkspaceSettings.xcsettings
+	com.apple.quarantine	    67 
+
+./Fun collages.xcodeproj/project.xcworkspace/xcuserdata/ysong0.xcuserdatad:
+total 304
+drwx------@ 4 ysong0  KMART\Domain Users     136 Aug 25 15:01 .
+	com.apple.quarantine	    67 
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users     170 Aug 25 14:47 ..
+	com.apple.quarantine	    67 
+-rw-------  1 ysong0  KMART\Domain Users  148219 Aug 25 15:01 UserInterfaceState.xcuserstate
+-rw-r--r--  1 ysong0  KMART\Domain Users     507 Aug 25 14:59 WorkspaceSettings.xcsettings
+
+./Fun collages.xcodeproj/xcuserdata:
+total 0
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 15:00 ..
+	LastUpgradeCheck	  4 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 Song.xcuserdatad
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 yangsong.xcuserdatad
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ysong0.xcuserdatad
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/xcuserdata/Song.xcuserdatad:
+total 0
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 xcdebugger
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 xcschemes
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/xcuserdata/Song.xcuserdatad/xcdebugger:
+total 24
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwx------@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  2897 Mar 25  2013 Breakpoints.xcbkptlist
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  5045 Jun 26  2013 Breakpoints_v2.xcbkptlist
+	com.apple.quarantine	  67 
+
+./Fun collages.xcodeproj/xcuserdata/Song.xcuserdatad/xcschemes:
+total 16
+drwx------@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwx------@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  3195 Jan 17  2013 Fun collages.xcscheme
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users   484 Jan 17  2013 xcschememanagement.plist
+	com.apple.quarantine	  67 
+
+./Fun collages.xcodeproj/xcuserdata/yangsong.xcuserdatad:
+total 0
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwx------@ 3 ysong0  KMART\Domain Users  102 Jun 17  2013 xcdebugger
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 xcschemes
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/xcuserdata/yangsong.xcuserdatad/xcdebugger:
+total 8
+drwx------@ 3 ysong0  KMART\Domain Users  102 Jun 17  2013 .
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+-rw-------@ 1 ysong0  KMART\Domain Users  473 Aug 26  2016 Breakpoints_v2.xcbkptlist
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/xcuserdata/yangsong.xcuserdatad/xcschemes:
+total 24
+drwxr-xr-x@ 5 ysong0  KMART\Domain Users   170 Aug 25 14:47 .
+	com.apple.quarantine	  67 
+drwx------@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  3195 Jan 19  2014 Fun collages Release.xcscheme
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users  3195 Mar 25  2013 Fun collages.xcscheme
+	com.apple.quarantine	  67 
+-rw-------@ 1 ysong0  KMART\Domain Users   594 Jan 19  2014 xcschememanagement.plist
+	com.apple.quarantine	  67 
+
+./Fun collages.xcodeproj/xcuserdata/ysong0.xcuserdatad:
+total 0
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:47 .
+	com.apple.quarantine	 67 
+drwx------@ 5 ysong0  KMART\Domain Users  170 Aug 25 14:47 ..
+	com.apple.quarantine	 67 
+drwxr-xr-x@ 3 ysong0  KMART\Domain Users  102 Aug 25 14:48 xcdebugger
+	com.apple.quarantine	 67 
+drwx------@ 4 ysong0  KMART\Domain Users  136 Aug 25 14:58 xcschemes
+	com.apple.quarantine	 67 
+
+./Fun collages.xcodeproj/xcuserdata/ysong0.xcuserdatad/xcdebugger:
+total 8
+drwxr-xr-x@ 3 ysong0  KMART\Domain Users   102 Aug 25 14:48 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------  1 ysong0  KMART\Domain Users  4002 Aug 25 14:48 Breakpoints_v2.xcbkptlist
+
+./Fun collages.xcodeproj/xcuserdata/ysong0.xcuserdatad/xcschemes:
+total 16
+drwx------@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:58 .
+	com.apple.quarantine	  67 
+drwxr-xr-x@ 4 ysong0  KMART\Domain Users   136 Aug 25 14:47 ..
+	com.apple.quarantine	  67 
+-rw-------  1 ysong0  KMART\Domain Users  3363 Aug 25 14:58 Fun collages.xcscheme
+-rw-------@ 1 ysong0  KMART\Domain Users   484 Jul  1  2014 xcschememanagement.plist
+	com.apple.quarantine	  67 
+
+./build:
+total 0
+drwx------@  2 ysong0  KMART\Domain Users   68 Feb 19  2014 .
+	com.apple.quarantine	 67 
+drwx------@ 14 ysong0  KMART\Domain Users  476 Aug 25 15:06 ..
+	com.apple.quarantine	 67 
+
+./素材:
+total 19248
+drwx------@ 13 ysong0  KMART\Domain Users      442 Aug 25 14:47 .
+	com.apple.quarantine	     67 
+drwx------@ 14 ysong0  KMART\Domain Users      476 Aug 25 15:06 ..
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   585273 Jan  6  2014 Background23.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   130074 Jan  6  2014 LaunchImage.png
+	com.apple.FinderInfo	     32 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    15912 Jan  6  2014 Orange_Background_by_soxrox22.png
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   577264 Jan 19  2014 PhotoIcon.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	  50555 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users  8081681 Jan  6  2014 PhotoIcon.psd
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    28603 Jan  6  2014 launch1024.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9383 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    54388 Jan  6  2014 launch1136.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9387 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    15429 Jan  6  2014 launch480.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9228 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users    45969 Jan  6  2014 launch960.png
+	com.apple.FinderInfo	     32 
+	com.apple.ResourceFork	   9429 
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   100206 Jan  6  2014 photo.JPG
+	com.apple.quarantine	     67 
+-rw-------@  1 ysong0  KMART\Domain Users   100206 Jan  6  2014 photo3.JPG
+	com.apple.quarantine	     67 

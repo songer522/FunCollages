@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Fun collages
+
+  Created by Yang Song on 1/7/14.
+  Copyright (c) 2014 songer. All rights reserved.
+*/
+
+"TEXT EDITING PROMT" = "Double Tap to Edit";
+"MINIMUM PHOTOS PROMT" = "Please pick at least two pics";
+"SAVED TO CAMERA ROLL" = "Saved to Camera Roll!";
+"CONTINUE" = "Continue";
+"NEW" = "New";

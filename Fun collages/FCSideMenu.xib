@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FCSideMenu">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o63-dw-oZt">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="726"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="MenuClose:" destination="iN0-l3-epB" eventType="touchUpInside" id="TaP-Zu-y3C"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.80000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vUO-kG-w83">
+                    <rect key="frame" x="214" y="100" width="200" height="65"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="65" id="BYQ-fz-Id4"/>
+                        <constraint firstAttribute="width" constant="200" id="eEW-Wq-rUI"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
+                    <state key="normal" title="Photos">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="GotoPhotos:" destination="iN0-l3-epB" eventType="touchUpInside" id="6NE-aw-lZQ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.80000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gZ4-jm-fDg">
+                    <rect key="frame" x="214" y="175" width="200" height="65"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="200" id="5dj-h0-RjR"/>
+                        <constraint firstAttribute="height" constant="65" id="jkA-bZ-NP4"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
+                    <state key="normal" title="Background">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="GotBackGround:" destination="iN0-l3-epB" eventType="touchUpInside" id="pAm-hB-hyG"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.80000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JCb-0V-V8F">
+                    <rect key="frame" x="214" y="325" width="200" height="65"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="65" id="VFD-qs-QKM"/>
+                        <constraint firstAttribute="width" constant="200" id="igj-ls-bU5"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
+                    <state key="normal" title="Share">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="OpenShareMenu:" destination="iN0-l3-epB" eventType="touchUpInside" id="hqY-Md-scD"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.80000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PGE-N3-emn">
+                    <rect key="frame" x="214" y="250" width="200" height="65"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="200" id="f2v-vk-1j5"/>
+                        <constraint firstAttribute="height" constant="65" id="tZw-Rv-1Fr"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
+                    <state key="normal" title="Save">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="SaveToAlbum:" destination="iN0-l3-epB" eventType="touchUpInside" id="cab-CX-Pik"/>
+                    </connections>
+                </button>
+                <button opaque="NO" alpha="0.80000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Svn-kg-am7">
+                    <rect key="frame" x="214" y="400" width="200" height="65"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="200" id="hph-py-Vto"/>
+                        <constraint firstAttribute="height" constant="65" id="oD0-a4-uhq"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
+                    <state key="normal" title="Text">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="AddText:" destination="iN0-l3-epB" eventType="touchUpInside" id="7n8-MM-mVf"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="o63-dw-oZt" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="5sf-s6-3P5"/>
+                <constraint firstAttribute="trailing" secondItem="o63-dw-oZt" secondAttribute="trailing" id="76D-Oy-89h"/>
+                <constraint firstAttribute="trailing" secondItem="PGE-N3-emn" secondAttribute="trailing" id="Caa-k1-yXv"/>
+                <constraint firstItem="Svn-kg-am7" firstAttribute="top" secondItem="JCb-0V-V8F" secondAttribute="bottom" constant="10" id="Hl3-u4-0Nw"/>
+                <constraint firstItem="gZ4-jm-fDg" firstAttribute="top" secondItem="vUO-kG-w83" secondAttribute="bottom" constant="10" id="LLB-V1-7Tb"/>
+                <constraint firstAttribute="trailing" secondItem="vUO-kG-w83" secondAttribute="trailing" id="NDC-tm-CMt"/>
+                <constraint firstItem="vUO-kG-w83" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="100" id="Nvv-ih-aaI"/>
+                <constraint firstAttribute="bottom" secondItem="o63-dw-oZt" secondAttribute="bottom" constant="10" id="dml-GU-wIh"/>
+                <constraint firstItem="JCb-0V-V8F" firstAttribute="top" secondItem="PGE-N3-emn" secondAttribute="bottom" constant="10" id="ofP-Vv-BZQ"/>
+                <constraint firstAttribute="trailing" secondItem="Svn-kg-am7" secondAttribute="trailing" id="p49-VT-EHZ"/>
+                <constraint firstItem="o63-dw-oZt" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="uEK-ny-Pwp"/>
+                <constraint firstAttribute="trailing" secondItem="JCb-0V-V8F" secondAttribute="trailing" id="vBv-je-iUo"/>
+                <constraint firstAttribute="trailing" secondItem="gZ4-jm-fDg" secondAttribute="trailing" id="vaQ-fR-B9x"/>
+                <constraint firstItem="PGE-N3-emn" firstAttribute="top" secondItem="gZ4-jm-fDg" secondAttribute="bottom" constant="10" id="yf7-2E-HUu"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <connections>
+                <outlet property="textButton" destination="Svn-kg-am7" id="sBU-Vb-pdz"/>
+            </connections>
+            <point key="canvasLocation" x="26.5" y="52.5"/>
+        </view>
+    </objects>
+</document>
